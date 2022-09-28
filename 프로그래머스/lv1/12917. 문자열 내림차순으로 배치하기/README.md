@@ -39,4 +39,17 @@ s는 영문 대소문자로만 구성되어 있으며, 대문자는 소문자보
 </tbody>
       </table>
 
+
+### 과정
+
+1. 문자열을 char 배열로 변경
+`String.toCharArray()` 사용
+
+2. char배열을 오름차순으로 정렬
+`Arrays.sort()`
+
+3. 내림차순 정렬(reverse)
+`StringBuilder클래스의 reverse() 메서드` 활용
+
+<br>
 > 출처: 프로그래머스 코딩 테스트 연습, https://programmers.co.kr/learn/challenges
