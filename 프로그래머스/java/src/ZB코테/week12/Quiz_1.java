@@ -1,7 +1,6 @@
-import java.util.*;
+package ZB코테.week12;
 
-public class memo {
-
+public class Quiz_1 {
     public static int solution(String s) {
         int answer = 0;
         String str = "";
@@ -55,6 +54,6 @@ public class memo {
     }
 
     public static void main(String[] args) {
-        solution("azbacefbaaaa");
+       solution("azbacefbaaaa");
     }
 }
