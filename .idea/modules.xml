@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Algorithm_Ogu.iml" filepath="$PROJECT_DIR$/Algorithm_Ogu.iml" />
       <module fileurl="file://$PROJECT_DIR$/프로그래머스/lv1/lv1.iml" filepath="$PROJECT_DIR$/프로그래머스/lv1/lv1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solved.ac/solved.ac.iml" filepath="$PROJECT_DIR$/solved.ac/solved.ac.iml" />
       <module fileurl="file://$PROJECT_DIR$/백준/백준.iml" filepath="$PROJECT_DIR$/백준/백준.iml" />
       <module fileurl="file://$PROJECT_DIR$/프로그래머스/java/프로그래머스.iml" filepath="$PROJECT_DIR$/프로그래머스/java/프로그래머스.iml" />
     </modules>
