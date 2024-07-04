@@ -5,79 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45a5baec-f8b6-4123-86e6-a5f0a946d0d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/solved.ac/bronze_25083.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/solved.ac/class1/bonze_1008.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/solved.ac/class1/bronze3_2562.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/solved.ac/class1/bronze_10818/bronze3_10818.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/solved.ac/class1/bronze_10818/bronze_10818_way2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/solved.ac/class1/bronze_10818/bronze_10818_way3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/solved.ac/class1/bronze_10818/bronze_10818_way4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/solved.ac/class1/bronze_10869.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/solved.ac/class1/bronze_10950.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/solved.ac/class1/bronze_10951/bronze_10951_way2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/solved.ac/class1/bronze_10951/bronze__10951.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/solved.ac/class1/bronze_10952.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/solved.ac/class1/bronze_11654.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/solved.ac/class1/bronze_11720/bronze_11720.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/solved.ac/class1/bronze_11720/bronze_11720_way2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/solved.ac/class1/bronze_1330.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/solved.ac/class1/bronze_2438.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/solved.ac/class1/bronze_2739.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/solved.ac/class1/bronze_27866.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/백준/S14501.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/백준/tmp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solved.ac/solved.ac.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solved.ac/src/bronze_25083.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solved.ac/src/class1/bonze_1008.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solved.ac/src/class1/bronze2_2675.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solved.ac/src/class1/bronze3_2562.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solved.ac/src/class1/bronze_10818/bronze3_10818.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solved.ac/src/class1/bronze_10818/bronze_10818_way2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solved.ac/src/class1/bronze_10818/bronze_10818_way3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solved.ac/src/class1/bronze_10818/bronze_10818_way4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solved.ac/src/class1/bronze_10869.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solved.ac/src/class1/bronze_10950.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solved.ac/src/class1/bronze_10951/bronze_10951_way2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solved.ac/src/class1/bronze_10951/bronze__10951.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solved.ac/src/class1/bronze_10952.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solved.ac/src/class1/bronze_11654.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solved.ac/src/class1/bronze_11720/bronze_11720.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solved.ac/src/class1/bronze_11720/bronze_11720_way2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solved.ac/src/class1/bronze_1330.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solved.ac/src/class1/bronze_2438.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solved.ac/src/class1/bronze_2739.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/solved.ac/src/class1/bronze_27866.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/백준/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/백준/java/out/production/백준/bronze_1085.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/백준/java/out/production/백준/bronze_1152.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/백준/java/out/production/백준/bronze_1157.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/백준/java/out/production/백준/bronze_1157_re.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/백준/java/src/Silver/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/백준/java/src/Silver/S14501.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/프로그래머스/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/프로그래머스/out/production/java/Q1463.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/프로그래머스/out/production/java/algorithm/DP_BottomUp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/프로그래머스/out/production/java/algorithm/DP_TopDown.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/프로그래머스/out/production/java/likelionBE/algorithm/DP_BottomUp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/프로그래머스/out/production/java/likelionBE/algorithm/DP_TopDown.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/Q_125_Valid_Palindrome/Q125_Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/Q_125_Valid_Palindrome/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/백준/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/백준/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/백준/Bronze/bronze_1085.java" beforeDir="false" afterPath="$PROJECT_DIR$/백준/java/src/Bronze/bronze_1085.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/백준/Bronze/bronze_1152.java" beforeDir="false" afterPath="$PROJECT_DIR$/백준/java/src/Bronze/bronze_1152.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/백준/Bronze/bronze_1157.java" beforeDir="false" afterPath="$PROJECT_DIR$/백준/java/src/Bronze/bronze_1157.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/백준/Bronze/bronze_1157_re.java" beforeDir="false" afterPath="$PROJECT_DIR$/백준/java/src/Bronze/bronze_1157_re.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/백준/Bronze/tmp.java" beforeDir="false" afterPath="$PROJECT_DIR$/백준/java/src/Bronze/tmp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/백준/out/production/백준/bronze_1085.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/백준/bronze_1085.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/백준/out/production/백준/bronze_1152.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/백준/bronze_1152.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/백준/out/production/백준/bronze_1157.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/백준/bronze_1157.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/백준/out/production/백준/bronze_1157_re.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/백준/bronze_1157_re.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/백준/out/production/백준/tmp.class" beforeDir="false" afterPath="$PROJECT_DIR$/백준/java/out/production/백준/tmp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/백준/백준.iml" beforeDir="false" afterPath="$PROJECT_DIR$/백준/백준.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,9 +31,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Ogu1208"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Ogu1208/Algorithm_Ogu.git",
+    "accountId": "10d16ca5-8a34-445a-8192-3d0719873e81"
+  }
+}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
   <component name="ProjectId" id="2FfdkR5LRvP3JxjpIxUKWdEAUBi" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -108,22 +57,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Github-Desktop/Algorithm_Ogu/백준/Silver&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;프로젝트&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Q125_Palindrome.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "11",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Github-Desktop/Algorithm_Ogu/백준/Silver",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "프로젝트",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Github-Desktop\Algorithm_Ogu\백준\Silver" />
@@ -135,7 +89,20 @@
       <recent name="D:\Github-Desktop\Algorithm_Ogu\백준\java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.bronze2_2675">
+  <component name="RunManager" selected="Application.Q125_Palindrome">
+    <configuration name="Q125_Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q_125_Valid_Palindrome.Q125_Palindrome" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Q_125_Valid_Palindrome.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="bronze2_2675" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="class1.bronze_2675.bronze2_2675" />
       <module name="solved.ac" />
@@ -155,19 +122,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="class1.bronze_11720.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="bronze_10818_way3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class1.bronze_10818.bronze_10818_way3" />
-      <module name="solved.ac" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class1.bronze_10818.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -197,13 +151,21 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q125_Palindrome" />
         <item itemvalue="애플리케이션.bronze2_2675" />
         <item itemvalue="애플리케이션.bronze_27866" />
         <item itemvalue="애플리케이션.bronze_25083" />
         <item itemvalue="애플리케이션.bronze3_2562" />
-        <item itemvalue="애플리케이션.bronze_10818_way3" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -218,7 +180,8 @@
       <workItem from="1684243616012" duration="25000" />
       <workItem from="1719266096772" duration="13679000" />
       <workItem from="1719292974369" duration="9144000" />
-      <workItem from="1719352263312" duration="1681000" />
+      <workItem from="1719352263312" duration="2517000" />
+      <workItem from="1720085583612" duration="1993000" />
     </task>
     <servers />
   </component>
