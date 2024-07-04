@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45a5baec-f8b6-4123-86e6-a5f0a946d0d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_blame.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/Leetcode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/src/Q_125_Valid_Palindrome/Q125_Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/src/Q_125_Valid_Palindrome/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/Q_125_Valid_Palindrome/Q125_Palindrome_compareString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -181,7 +176,7 @@
       <workItem from="1719266096772" duration="13679000" />
       <workItem from="1719292974369" duration="9144000" />
       <workItem from="1719352263312" duration="2517000" />
-      <workItem from="1720085583612" duration="1993000" />
+      <workItem from="1720085583612" duration="3694000" />
     </task>
     <servers />
   </component>
