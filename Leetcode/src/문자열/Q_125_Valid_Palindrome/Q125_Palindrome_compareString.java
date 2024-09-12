@@ -1,4 +1,4 @@
-package Q_125_Valid_Palindrome;
+package 문자열.Q_125_Valid_Palindrome;
 
 /**
  * 문자열을 직접 비교

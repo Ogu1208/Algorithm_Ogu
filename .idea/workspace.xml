@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45a5baec-f8b6-4123-86e6-a5f0a946d0d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Leetcode/src/Q_125_Valid_Palindrome/Q125_Palindrome_compareString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/Q_125_Valid_Palindrome/Q125_Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/문자열/Q_125_Valid_Palindrome/Q125_Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/Q_125_Valid_Palindrome/Q125_Palindrome_compareString.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/문자열/Q_125_Valid_Palindrome/Q125_Palindrome_compareString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/Q_125_Valid_Palindrome/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/문자열/Q_125_Valid_Palindrome/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,24 +29,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Ogu1208"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Ogu1208&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Ogu1208/Algorithm_Ogu.git",
-    "accountId": "10d16ca5-8a34-445a-8192-3d0719873e81"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Ogu1208/Algorithm_Ogu.git&quot;,
+    &quot;accountId&quot;: &quot;10d16ca5-8a34-445a-8192-3d0719873e81&quot;
   }
-}]]></component>
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2FfdkR5LRvP3JxjpIxUKWdEAUBi" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -61,7 +64,7 @@
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "11",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Github-Desktop/Algorithm_Ogu/백준/Silver",
+    "last_opened_file_path": "/Users/ogu/Desktop/Github-Desktop/Algorithm_Ogu",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -84,7 +87,7 @@
       <recent name="D:\Github-Desktop\Algorithm_Ogu\백준\java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q125_Palindrome">
+  <component name="RunManager" selected="애플리케이션.bronze2_2675">
     <configuration name="Q125_Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Q_125_Valid_Palindrome.Q125_Palindrome" />
       <module name="Leetcode" />
@@ -146,7 +149,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q125_Palindrome" />
         <item itemvalue="애플리케이션.bronze2_2675" />
         <item itemvalue="애플리케이션.bronze_27866" />
         <item itemvalue="애플리케이션.bronze_25083" />
@@ -177,6 +179,7 @@
       <workItem from="1719292974369" duration="9144000" />
       <workItem from="1719352263312" duration="2517000" />
       <workItem from="1720085583612" duration="3694000" />
+      <workItem from="1726142955131" duration="490000" />
     </task>
     <servers />
   </component>
