@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45a5baec-f8b6-4123-86e6-a5f0a946d0d5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/문자열/Q_125_Valid_Palindrome/Q125_Palindrome_kotlin.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/Q_125_Valid_Palindrome/Q125_Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/문자열/Q_125_Valid_Palindrome/Q125_Palindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/Q_125_Valid_Palindrome/Q125_Palindrome_compareString.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/문자열/Q_125_Valid_Palindrome/Q125_Palindrome_compareString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/Q_125_Valid_Palindrome/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/문자열/Q_125_Valid_Palindrome/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +21,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -55,27 +54,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Q125_Palindrome.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "jdk.selected.JAVA_MODULE": "11",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/ogu/Desktop/Github-Desktop/Algorithm_Ogu",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "프로젝트",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Q125_Palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ogu/Desktop/Github-Desktop/Algorithm_Ogu&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;프로젝트&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Github-Desktop\Algorithm_Ogu\백준\Silver" />
@@ -87,20 +87,7 @@
       <recent name="D:\Github-Desktop\Algorithm_Ogu\백준\java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.bronze2_2675">
-    <configuration name="Q125_Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Q_125_Valid_Palindrome.Q125_Palindrome" />
-      <module name="Leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Q_125_Valid_Palindrome.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.Q125_Palindrome_kotlinKt">
     <configuration name="bronze2_2675" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="class1.bronze_2675.bronze2_2675" />
       <module name="solved.ac" />
@@ -147,8 +134,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Q125_Palindrome_kotlinKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="문자열.Q_125_Valid_Palindrome.Q125_Palindrome_kotlinKt" />
+      <module name="Leetcode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Q125_Palindrome_kotlinKt" />
         <item itemvalue="애플리케이션.bronze2_2675" />
         <item itemvalue="애플리케이션.bronze_27866" />
         <item itemvalue="애플리케이션.bronze_25083" />
@@ -179,7 +174,10 @@
       <workItem from="1719292974369" duration="9144000" />
       <workItem from="1719352263312" duration="2517000" />
       <workItem from="1720085583612" duration="3694000" />
-      <workItem from="1726142955131" duration="490000" />
+      <workItem from="1726142955131" duration="686000" />
+      <workItem from="1726143647661" duration="63000" />
+      <workItem from="1726143715938" duration="69000" />
+      <workItem from="1726143790964" duration="1403000" />
     </task>
     <servers />
   </component>
