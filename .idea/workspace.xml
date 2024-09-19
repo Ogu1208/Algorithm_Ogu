@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45a5baec-f8b6-4123-86e6-a5f0a946d0d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Leetcode/src/문자열/Q_344_Reverse_String/Q334_Revserse_String_kotlin.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Leetcode/src/문자열/Q_344_Reverse_String/Q344_Reverse_String.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/문자열/Q937_Reorder_Log_Files.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Kotlin Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -54,30 +53,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Q125_Palindrome.executor": "Run",
-    "Kotlin.Q125_Palindrome_kotlinKt.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "jdk.selected.JAVA_MODULE": "11",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/ogu/Desktop/Github-Desktop/Algorithm_Ogu",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "프로젝트",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true",
-    "애플리케이션.Q344_Reverse_String.executor": "Run"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Q125_Palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Q125_Palindrome_kotlinKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Q334_Revserse_String_kotlin.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ogu/Desktop/Github-Desktop/Algorithm_Ogu&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;프로젝트&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;애플리케이션.Q344_Reverse_String.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Q937_Reorder_Log_Files.executor&quot;: &quot;Run&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Github-Desktop\Algorithm_Ogu\백준\Silver" />
@@ -89,7 +90,7 @@
       <recent name="D:\Github-Desktop\Algorithm_Ogu\백준\java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Q334_Revserse_String_kotlin">
+  <component name="RunManager" selected="애플리케이션.Q937_Reorder_Log_Files">
     <configuration name="Q344_Reverse_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="문자열.Q_344_Reverse_String.Q344_Reverse_String" />
       <module name="Leetcode" />
@@ -103,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="bronze2_2675" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class1.bronze_2675.bronze2_2675" />
-      <module name="solved.ac" />
+    <configuration name="Q937_Reorder_Log_Files" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="문자열.Q937_Reorder_Log_Files" />
+      <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class1.bronze_2675.*" />
+          <option name="PATTERN" value="문자열.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,8 +117,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="bronze_27866" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class1.bronze_27866" />
+    <configuration name="bronze2_2675" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class1.bronze_2675.bronze2_2675" />
       <module name="solved.ac" />
       <extension name="coverage">
         <pattern>
@@ -145,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Q937_Reorder_Log_Files" />
         <item itemvalue="Kotlin.Q334_Revserse_String_kotlin" />
         <item itemvalue="애플리케이션.Q344_Reverse_String" />
         <item itemvalue="Kotlin.Q125_Palindrome_kotlinKt" />
         <item itemvalue="애플리케이션.bronze2_2675" />
-        <item itemvalue="애플리케이션.bronze_27866" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +180,10 @@
       <workItem from="1726142955131" duration="686000" />
       <workItem from="1726143647661" duration="63000" />
       <workItem from="1726143715938" duration="69000" />
-      <workItem from="1726143790964" duration="2407000" />
+      <workItem from="1726143790964" duration="3160000" />
+      <workItem from="1726185578508" duration="734000" />
+      <workItem from="1726584595509" duration="6647000" />
+      <workItem from="1726757341327" duration="2529000" />
     </task>
     <servers />
   </component>
