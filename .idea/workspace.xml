@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45a5baec-f8b6-4123-86e6-a5f0a946d0d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Leetcode/src/문자열/Q937_Reorder_Log_Files.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/배열/Q1_TwoSum_#3_Kotlin.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Class" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -183,7 +183,9 @@
       <workItem from="1726143790964" duration="3160000" />
       <workItem from="1726185578508" duration="734000" />
       <workItem from="1726584595509" duration="6647000" />
-      <workItem from="1726757341327" duration="2529000" />
+      <workItem from="1726757341327" duration="3727000" />
+      <workItem from="1726795692824" duration="14000" />
+      <workItem from="1729920608628" duration="7306000" />
     </task>
     <servers />
   </component>
