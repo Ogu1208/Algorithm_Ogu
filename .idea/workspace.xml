@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45a5baec-f8b6-4123-86e6-a5f0a946d0d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Leetcode/src/배열/Q1_TwoSum_#3_Kotlin.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/배열/Q42_빗물트래핑/Q42_투포인터.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/배열/Q1_TwoSum_#3_Kotlin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/배열/Q1_TwoSum/Q1_TwoSum_#3_Kotlin.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/배열/Q1_TwoSum_브루트포스_W1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/배열/Q1_TwoSum/Q1_TwoSum_브루트포스_W1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/배열/Q1_TwoSum_첫번째수를뺀결과키조회_W2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/배열/Q1_TwoSum/Q1_TwoSum_첫번째수를뺀결과키조회_W2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/배열/Q1_TwoSum_첫번째수를뺀결과키조회_조회구조개선_W3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/배열/Q1_TwoSum/Q1_TwoSum_첫번째수를뺀결과키조회_조회구조개선_W3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +23,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Kotlin Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -84,13 +88,14 @@
       <recent name="D:\Github-Desktop\Algorithm_Ogu\백준\Silver" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Leetcode/src/배열/Q1_TwoSum" />
       <recent name="D:\Github-Desktop\Algorithm_Ogu\solved.ac\java\src" />
       <recent name="D:\Github-Desktop\Algorithm_Ogu\solved.ac\java" />
       <recent name="D:\Github-Desktop\Algorithm_Ogu\백준\java" />
       <recent name="D:\Github-Desktop\Algorithm_Ogu\백준\java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.Q937_Reorder_Log_Files">
+  <component name="RunManager" selected="애플리케이션.Q42_투포인터">
     <configuration name="Q344_Reverse_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="문자열.Q_344_Reverse_String.Q344_Reverse_String" />
       <module name="Leetcode" />
@@ -104,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q937_Reorder_Log_Files" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="문자열.Q937_Reorder_Log_Files" />
+    <configuration name="Q42_투포인터" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="배열.Q42_빗물트래핑.Q42_투포인터" />
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="문자열.*" />
+          <option name="PATTERN" value="배열.Q42_빗물트래핑.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="bronze2_2675" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class1.bronze_2675.bronze2_2675" />
-      <module name="solved.ac" />
+    <configuration name="Q937_Reorder_Log_Files" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="문자열.Q937_Reorder_Log_Files" />
+      <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class1.bronze_2675.*" />
+          <option name="PATTERN" value="문자열.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Q42_투포인터" />
         <item itemvalue="애플리케이션.Q937_Reorder_Log_Files" />
         <item itemvalue="Kotlin.Q334_Revserse_String_kotlin" />
         <item itemvalue="애플리케이션.Q344_Reverse_String" />
         <item itemvalue="Kotlin.Q125_Palindrome_kotlinKt" />
-        <item itemvalue="애플리케이션.bronze2_2675" />
       </list>
     </recent_temporary>
   </component>
@@ -185,7 +190,9 @@
       <workItem from="1726584595509" duration="6647000" />
       <workItem from="1726757341327" duration="3727000" />
       <workItem from="1726795692824" duration="14000" />
-      <workItem from="1729920608628" duration="7306000" />
+      <workItem from="1729920608628" duration="10214000" />
+      <workItem from="1729987615146" duration="3000" />
+      <workItem from="1730994293317" duration="915000" />
     </task>
     <servers />
   </component>

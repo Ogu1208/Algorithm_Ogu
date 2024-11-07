@@ -1,4 +1,4 @@
-package 배열;
+package 배열.Q1_TwoSum;
 
 import java.util.HashMap;
 import java.util.Map;

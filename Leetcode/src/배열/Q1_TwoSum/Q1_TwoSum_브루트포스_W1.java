@@ -1,4 +1,4 @@
-package 배열;
+package 배열.Q1_TwoSum;
 
 /**
  * 시간복잡도 : O(n^2)

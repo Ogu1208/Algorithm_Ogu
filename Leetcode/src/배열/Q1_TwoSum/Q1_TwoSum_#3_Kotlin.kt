@@ -1,4 +1,4 @@
-package 배열
+package 배열.Q1_TwoSum
 
 class `Q1_TwoSum_#3_Kotlin` {
     fun twoSum(nums: IntArray, target: Int): IntArray {
