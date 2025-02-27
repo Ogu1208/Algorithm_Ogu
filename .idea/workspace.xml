@@ -5,12 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45a5baec-f8b6-4123-86e6-a5f0a946d0d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Leetcode/src/배열/Q42_빗물트래핑/Q42_투포인터.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_5_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_api_5_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_engine_5_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_params_5_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_platform_junit_platform_commons_1_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_platform_junit_platform_engine_1_10_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_opentest4j_opentest4j_1_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/national.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/national.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/배열/Q15_세수의합/Q15_3Sum_투포인터.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/national.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/national/national.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/national/src/그리디/Q_1이_될_때까지.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/national/src/그리디/큰_수의_법칙.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/배열/Q1_TwoSum_#3_Kotlin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/배열/Q1_TwoSum/Q1_TwoSum_#3_Kotlin.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/배열/Q1_TwoSum_브루트포스_W1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/배열/Q1_TwoSum/Q1_TwoSum_브루트포스_W1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/배열/Q1_TwoSum_첫번째수를뺀결과키조회_W2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/배열/Q1_TwoSum/Q1_TwoSum_첫번째수를뺀결과키조회_W2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Leetcode/src/배열/Q1_TwoSum_첫번째수를뺀결과키조회_조회구조개선_W3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/배열/Q1_TwoSum/Q1_TwoSum_첫번째수를뺀결과키조회_조회구조개선_W3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm_Ogu.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_Ogu.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/배열/Q42_빗물트래핑/Q42_투포인터.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/배열/Q42_빗물트래핑/Q42_투포인터.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/배열/Q42_빗물트래핑/Q42_투포인터.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/배열/Q42_빗물트래핑/Q42_투포인터.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +37,28 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/national">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="national" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -43,6 +83,9 @@
     &quot;accountId&quot;: &quot;10d16ca5-8a34-445a-8192-3d0719873e81&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar:///Library/Java/JavaVirtualMachines/jdk-17.jdk/Contents/Home/lib/src.zip!/java.base/java/util/List.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -57,32 +100,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Q125_Palindrome.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Q125_Palindrome_kotlinKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Q334_Revserse_String_kotlin.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/ogu/Desktop/Github-Desktop/Algorithm_Ogu&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;프로젝트&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
-    &quot;애플리케이션.Q344_Reverse_String.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Q937_Reorder_Log_Files.executor&quot;: &quot;Run&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Q125_Palindrome.executor": "Run",
+    "Kotlin.Q125_Palindrome_kotlinKt.executor": "Run",
+    "Kotlin.Q334_Revserse_String_kotlin.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "11",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/ogu/Desktop/Github-Desktop/Algorithm_Ogu",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/ogu/Desktop/Github-Desktop/Algorithm_Ogu/national/src/Main.java",
+    "project.structure.last.edited": "프로젝트",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true",
+    "애플리케이션.Q15_3Sum_투포인터.executor": "Run",
+    "애플리케이션.Q344_Reverse_String.executor": "Run",
+    "애플리케이션.Q42_투포인터.executor": "Run",
+    "애플리케이션.Q937_Reorder_Log_Files.executor": "Run"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Github-Desktop\Algorithm_Ogu\백준\Silver" />
@@ -95,7 +141,20 @@
       <recent name="D:\Github-Desktop\Algorithm_Ogu\백준\java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.Q42_투포인터">
+  <component name="RunManager" selected="애플리케이션.Q15_3Sum_투포인터">
+    <configuration name="Q15_3Sum_투포인터" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="배열.Q15_세수의합.Q15_3Sum_투포인터" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="배열.Q15_세수의합.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Q344_Reverse_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="문자열.Q_344_Reverse_String.Q344_Reverse_String" />
       <module name="Leetcode" />
@@ -135,13 +194,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q125_Palindrome_kotlinKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="문자열.Q_125_Valid_Palindrome.Q125_Palindrome_kotlinKt" />
-      <module name="Leetcode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Q334_Revserse_String_kotlin" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="문자열.Q_344_Reverse_String.Q334_Revserse_String_kotlin" />
       <module name="Leetcode" />
@@ -151,11 +203,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Q15_3Sum_투포인터" />
         <item itemvalue="애플리케이션.Q42_투포인터" />
         <item itemvalue="애플리케이션.Q937_Reorder_Log_Files" />
         <item itemvalue="Kotlin.Q334_Revserse_String_kotlin" />
         <item itemvalue="애플리케이션.Q344_Reverse_String" />
-        <item itemvalue="Kotlin.Q125_Palindrome_kotlinKt" />
       </list>
     </recent_temporary>
   </component>
@@ -192,11 +244,33 @@
       <workItem from="1726795692824" duration="14000" />
       <workItem from="1729920608628" duration="10214000" />
       <workItem from="1729987615146" duration="3000" />
-      <workItem from="1730994293317" duration="915000" />
+      <workItem from="1730994293317" duration="1305000" />
+      <workItem from="1731024005407" duration="59000" />
+      <workItem from="1731856603325" duration="3654000" />
+      <workItem from="1731888033210" duration="102000" />
+      <workItem from="1740675193205" duration="348000" />
+      <workItem from="1740675550365" duration="1914000" />
+      <workItem from="1740677768161" duration="1760000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/national/src/main/java/com/ogu1208/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/national/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
