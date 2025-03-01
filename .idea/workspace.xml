@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45a5baec-f8b6-4123-86e6-a5f0a946d0d5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/national/src/그리디/큰_수의_법칙.java" beforeDir="false" afterPath="$PROJECT_DIR$/national/src/그리디/큰_수의_법칙.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -239,7 +238,7 @@
       <workItem from="1740675550365" duration="1914000" />
       <workItem from="1740677768161" duration="1760000" />
       <workItem from="1740700443002" duration="8204000" />
-      <workItem from="1740830080076" duration="3002000" />
+      <workItem from="1740830080076" duration="3724000" />
     </task>
     <servers />
   </component>
