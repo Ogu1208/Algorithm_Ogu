@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45a5baec-f8b6-4123-86e6-a5f0a946d0d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/national/src/그리디/숫자_카드_게임.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/national/src/그리디/배낭_문제_그리디.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,38 +78,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Q125_Palindrome.executor": "Run",
-    "Kotlin.Q125_Palindrome_kotlinKt.executor": "Run",
-    "Kotlin.Q334_Revserse_String_kotlin.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "jdk.selected.JAVA_MODULE": "11",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/ogu/Desktop/Github-Desktop/Algorithm_Ogu",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/Users/ogu/Desktop/Github-Desktop/Algorithm_Ogu/national/src/Main.java",
-    "project.structure.last.edited": "프로젝트",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.keymap",
-    "vue.rearranger.settings.migration": "true",
-    "애플리케이션.Q15_3Sum_투포인터.executor": "Run",
-    "애플리케이션.Q344_Reverse_String.executor": "Run",
-    "애플리케이션.Q42_투포인터.executor": "Run",
-    "애플리케이션.Q937_Reorder_Log_Files.executor": "Run",
-    "애플리케이션.곱하기_혹은_더하기.executor": "Run",
-    "애플리케이션.모험가_길드.executor": "Run",
-    "애플리케이션.큰_수의_법칙.executor": "Run"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Q125_Palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Q125_Palindrome_kotlinKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Q334_Revserse_String_kotlin.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ogu/Desktop/Github-Desktop/Algorithm_Ogu&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/ogu/Desktop/Github-Desktop/Algorithm_Ogu/national/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;프로젝트&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;애플리케이션.Q15_3Sum_투포인터.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Q344_Reverse_String.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Q42_투포인터.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Q937_Reorder_Log_Files.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.곱하기_혹은_더하기.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.모험가_길드.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.숫자_카드_게임.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.큰_수의_법칙.executor&quot;: &quot;Run&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Github-Desktop\Algorithm_Ogu\백준\Silver" />
@@ -121,7 +123,7 @@
       <recent name="D:\Github-Desktop\Algorithm_Ogu\백준\java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.숫자_카드_게임">
+  <component name="RunManager" selected="애플리케이션.Q15_3Sum_투포인터">
     <configuration name="Q15_3Sum_투포인터" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="배열.Q15_세수의합.Q15_3Sum_투포인터" />
       <module name="Leetcode" />
@@ -189,8 +191,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="애플리케이션.숫자_카드_게임" />
-        <item itemvalue="애플리케이션.큰_수의_법칙" />
         <item itemvalue="애플리케이션.모험가_길드" />
         <item itemvalue="애플리케이션.곱하기_혹은_더하기" />
         <item itemvalue="애플리케이션.Q15_3Sum_투포인터" />
@@ -238,7 +238,9 @@
       <workItem from="1740675550365" duration="1914000" />
       <workItem from="1740677768161" duration="1760000" />
       <workItem from="1740700443002" duration="8204000" />
-      <workItem from="1740830080076" duration="5151000" />
+      <workItem from="1740830080076" duration="6656000" />
+      <workItem from="1740895394997" duration="1630000" />
+      <workItem from="1740925162918" duration="1732000" />
     </task>
     <servers />
   </component>
