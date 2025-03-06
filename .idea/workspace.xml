@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45a5baec-f8b6-4123-86e6-a5f0a946d0d5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/그리디/Q122_BestTimeToBuyAndSellStock2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Leetcode/그리디/Q122_BestTimeToBuyAndSellStock2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Leetcode/그리디/배낭_문제_그리디$Cargo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Leetcode/그리디/배낭_문제_그리디.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/national/src/그리디/배낭_문제_그리디.java" beforeDir="false" afterPath="$PROJECT_DIR$/national/src/그리디/배낭_문제_그리디.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/national/src/그리디/배낭_문제_그리디.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/그리디/배낭_문제_그리디.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,6 +105,7 @@
     "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "preferences.keymap",
     "vue.rearranger.settings.migration": "true",
+    "애플리케이션.Q122_BestTimeToBuyAndSellStock2.executor": "Run",
     "애플리케이션.Q15_3Sum_투포인터.executor": "Run",
     "애플리케이션.Q344_Reverse_String.executor": "Run",
     "애플리케이션.Q42_투포인터.executor": "Run",
@@ -124,7 +129,20 @@
       <recent name="D:\Github-Desktop\Algorithm_Ogu\백준\java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.배낭_문제_그리디">
+  <component name="RunManager" selected="애플리케이션.Q122_BestTimeToBuyAndSellStock2">
+    <configuration name="Q122_BestTimeToBuyAndSellStock2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="그리디.Q122_BestTimeToBuyAndSellStock2" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="그리디.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Q15_3Sum_투포인터" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="배열.Q15_세수의합.Q15_3Sum_투포인터" />
       <module name="Leetcode" />
@@ -166,7 +184,7 @@
     </configuration>
     <configuration name="배낭_문제_그리디" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="그리디.배낭_문제_그리디" />
-      <module name="national" />
+      <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="그리디.*" />
@@ -205,6 +223,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Q122_BestTimeToBuyAndSellStock2" />
         <item itemvalue="애플리케이션.배낭_문제_그리디" />
         <item itemvalue="애플리케이션.Q15_3Sum_투포인터" />
         <item itemvalue="애플리케이션.모험가_길드" />
@@ -258,7 +277,7 @@
       <workItem from="1740925162918" duration="6926000" />
       <workItem from="1741046978334" duration="828000" />
       <workItem from="1741070015537" duration="1000" />
-      <workItem from="1741279596102" duration="1961000" />
+      <workItem from="1741279596102" duration="5530000" />
     </task>
     <servers />
   </component>
