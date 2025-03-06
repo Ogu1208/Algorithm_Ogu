@@ -9,12 +9,9 @@ import java.util.List;
  */
 public class 배낭_문제_그리디 {
     static class Cargo {
-        // 가치($)
-        int price;
-        // 무게(kg)
-        int weight;
-        // 단가($/kg)
-        float unitPrice;
+        int price; // ㄱㅏ치
+        int weight; // 무게
+        float unitPrice; // 단가
 
         public Cargo(int price, int weight) {
             this.price = price;
@@ -26,29 +23,25 @@ public class 배낭_문제_그리디 {
         }
     }
 
-    public static float fractionalKnapsack(List<Cargo> cargo) {
-        // 용량
+    static float fractionalKnapSack(List<Cargo> cargoList) {
         int capacity = 15;
-        // 담을 수 있는 최댓값
-        float totalValue = 0;
+        float totalValue = 0; // 담을 수 있는 최대 값
 
-        //단가를 계산해 업데이트
-        for (Cargo c : cargo) {
-            c.unitPrice = ((float) c.price / c.weight);
+        for (Cargo cargo : cargoList) {
+            cargo.setUnitPrice((float) cargo.price / cargo.weight);
         }
 
-        //단가 역순으로 정렬
-        cargo.sort(Comparator.comparingDouble(a -> a.unitPrice * -1));
+        cargoList.sort(Comparator.comparingDouble(c -> c.unitPrice * -1));
+        for (Cargo cargo : cargoList) {
+            System.out.println(cargo.unitPrice);
+        }
 
-        // 배낭에 단가 역순으로 담긴 짐의 최댓값 계산
-        for (Cargo c : cargo) {
-            // 짐을 쪼개도 되지 않는 경우 전체 가격 증가
-            if (capacity >= c.weight) {
-                totalValue += c.price;
-                capacity -= c.weight;
-            } else { // 짐을 쪼개는 경우(마지막으로 더함)
-                float fraction = (float) capacity / c.weight;
-                totalValue += c.price * fraction;
+        for (Cargo cargo : cargoList) {
+            if (capacity - cargo.weight >= 0) {
+                totalValue += cargo.price;
+                capacity -= cargo.weight;
+            } else {
+                totalValue += cargo.unitPrice * capacity;
                 break;
             }
         }
@@ -57,13 +50,14 @@ public class 배낭_문제_그리디 {
     }
 
     public static void main(String[] args) {
-        List<Cargo> cargo = new ArrayList<>();
-        cargo.add(new Cargo(4, 10));
-        cargo.add(new Cargo(2, 1));
-        cargo.add(new Cargo(10, 4));
-        cargo.add(new Cargo(1, 1));
-        cargo.add(new Cargo(2, 2));
+        List<Cargo> cargoList = new ArrayList<>();
 
-        float result = fractionalKnapsack(cargo);
+        cargoList.add(new Cargo(4, 12));
+        cargoList.add(new Cargo(2, 1));
+        cargoList.add(new Cargo(10, 4));
+        cargoList.add(new Cargo(1, 1));
+        cargoList.add(new Cargo(2, 2));
+
+        System.out.println("result = " + fractionalKnapSack(cargoList));
     }
 }
