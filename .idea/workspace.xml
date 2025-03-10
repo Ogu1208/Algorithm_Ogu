@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45a5baec-f8b6-4123-86e6-a5f0a946d0d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Leetcode/src/그리디/Q122_BestTimeToBuyAndSellStock2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Leetcode/그리디/Q122_BestTimeToBuyAndSellStock2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Leetcode/그리디/배낭_문제_그리디$Cargo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Leetcode/그리디/배낭_문제_그리디.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/src/우선순위큐/Q23_MergeKSortedLists.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/national/src/그리디/배낭_문제_그리디.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/그리디/배낭_문제_그리디.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Leetcode/src/그리디/Q122_BestTimeToBuyAndSellStock2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Leetcode/src/그리디/Q122_BestTimeToBuyAndSellStock2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Leetcode/그리디/Q122_BestTimeToBuyAndSellStock2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Leetcode/그리디/Q122_BestTimeToBuyAndSellStock2.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +69,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="PerforceDirect.Settings">
+    <option name="CHARSET" value="없음" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -82,41 +83,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Q125_Palindrome.executor": "Run",
-    "Kotlin.Q125_Palindrome_kotlinKt.executor": "Run",
-    "Kotlin.Q334_Revserse_String_kotlin.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "jdk.selected.JAVA_MODULE": "11",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/ogu/Desktop/Github-Desktop/Algorithm_Ogu",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/Users/ogu/Desktop/Github-Desktop/Algorithm_Ogu/national/src/Main.java",
-    "project.structure.last.edited": "프로젝트",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.keymap",
-    "vue.rearranger.settings.migration": "true",
-    "애플리케이션.Q122_BestTimeToBuyAndSellStock2.executor": "Run",
-    "애플리케이션.Q15_3Sum_투포인터.executor": "Run",
-    "애플리케이션.Q344_Reverse_String.executor": "Run",
-    "애플리케이션.Q42_투포인터.executor": "Run",
-    "애플리케이션.Q937_Reorder_Log_Files.executor": "Run",
-    "애플리케이션.곱하기_혹은_더하기.executor": "Run",
-    "애플리케이션.모험가_길드.executor": "Run",
-    "애플리케이션.배낭_문제_그리디.executor": "Run",
-    "애플리케이션.숫자_카드_게임.executor": "Run",
-    "애플리케이션.큰_수의_법칙.executor": "Run"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Q125_Palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Q125_Palindrome_kotlinKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Q334_Revserse_String_kotlin.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ogu/Desktop/Github-Desktop/Algorithm_Ogu&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/ogu/Desktop/Github-Desktop/Algorithm_Ogu/national/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;프로젝트&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;애플리케이션.Q122_BestTimeToBuyAndSellStock2.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Q15_3Sum_투포인터.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Q344_Reverse_String.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Q42_투포인터.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Q937_Reorder_Log_Files.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.곱하기_혹은_더하기.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.모험가_길드.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.배낭_문제_그리디.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.숫자_카드_게임.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.큰_수의_법칙.executor&quot;: &quot;Run&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Github-Desktop\Algorithm_Ogu\백준\Silver" />
@@ -224,7 +225,6 @@
     <recent_temporary>
       <list>
         <item itemvalue="애플리케이션.Q122_BestTimeToBuyAndSellStock2" />
-        <item itemvalue="애플리케이션.배낭_문제_그리디" />
         <item itemvalue="애플리케이션.Q15_3Sum_투포인터" />
         <item itemvalue="애플리케이션.모험가_길드" />
         <item itemvalue="애플리케이션.곱하기_혹은_더하기" />
@@ -277,7 +277,10 @@
       <workItem from="1740925162918" duration="6926000" />
       <workItem from="1741046978334" duration="828000" />
       <workItem from="1741070015537" duration="1000" />
-      <workItem from="1741279596102" duration="5530000" />
+      <workItem from="1741279596102" duration="5972000" />
+      <workItem from="1741306408275" duration="14000" />
+      <workItem from="1741539408738" duration="4091000" />
+      <workItem from="1741564792886" duration="3139000" />
     </task>
     <servers />
   </component>
