@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45a5baec-f8b6-4123-86e6-a5f0a946d0d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Leetcode/src/우선순위큐/Q406_QueueReconstructionByHeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/java/src/그리디/Q2075_N번째큰수.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,41 +78,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Q125_Palindrome.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Q125_Palindrome_kotlinKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Q334_Revserse_String_kotlin.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/ogu/Desktop/Github-Desktop/Algorithm_Ogu&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/ogu/Desktop/Github-Desktop/Algorithm_Ogu/national/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;프로젝트&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
-    &quot;애플리케이션.Q122_BestTimeToBuyAndSellStock2.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Q15_3Sum_투포인터.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Q344_Reverse_String.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Q42_투포인터.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Q937_Reorder_Log_Files.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.곱하기_혹은_더하기.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.모험가_길드.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.배낭_문제_그리디.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.숫자_카드_게임.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.큰_수의_법칙.executor&quot;: &quot;Run&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Q125_Palindrome.executor": "Run",
+    "Kotlin.Q125_Palindrome_kotlinKt.executor": "Run",
+    "Kotlin.Q334_Revserse_String_kotlin.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "11",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/ogu/Desktop/Github-Desktop/Algorithm_Ogu",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/ogu/Desktop/Github-Desktop/Algorithm_Ogu/national/src/Main.java",
+    "project.structure.last.edited": "프로젝트",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true",
+    "애플리케이션.Q122_BestTimeToBuyAndSellStock2.executor": "Run",
+    "애플리케이션.Q15_3Sum_투포인터.executor": "Run",
+    "애플리케이션.Q2075_N번째큰수.executor": "Run",
+    "애플리케이션.Q344_Reverse_String.executor": "Run",
+    "애플리케이션.Q42_투포인터.executor": "Run",
+    "애플리케이션.Q937_Reorder_Log_Files.executor": "Run",
+    "애플리케이션.곱하기_혹은_더하기.executor": "Run",
+    "애플리케이션.모험가_길드.executor": "Run",
+    "애플리케이션.배낭_문제_그리디.executor": "Run",
+    "애플리케이션.숫자_카드_게임.executor": "Run",
+    "애플리케이션.큰_수의_법칙.executor": "Run"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Github-Desktop\Algorithm_Ogu\백준\Silver" />
@@ -125,7 +126,7 @@
       <recent name="D:\Github-Desktop\Algorithm_Ogu\백준\java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.Q122_BestTimeToBuyAndSellStock2">
+  <component name="RunManager" selected="애플리케이션.Q2075_N번째큰수">
     <configuration name="Q122_BestTimeToBuyAndSellStock2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="그리디.Q122_BestTimeToBuyAndSellStock2" />
       <module name="Leetcode" />
@@ -145,6 +146,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="배열.Q15_세수의합.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q2075_N번째큰수" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="그리디.Q2075_N번째큰수" />
+      <module name="백준" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="그리디.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -219,6 +233,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Q2075_N번째큰수" />
         <item itemvalue="애플리케이션.Q122_BestTimeToBuyAndSellStock2" />
         <item itemvalue="애플리케이션.Q15_3Sum_투포인터" />
         <item itemvalue="애플리케이션.모험가_길드" />
@@ -277,7 +292,7 @@
       <workItem from="1741539408738" duration="4091000" />
       <workItem from="1741564792886" duration="3305000" />
       <workItem from="1741710225761" duration="7306000" />
-      <workItem from="1741792368952" duration="2574000" />
+      <workItem from="1741792368952" duration="6053000" />
     </task>
     <servers />
   </component>
