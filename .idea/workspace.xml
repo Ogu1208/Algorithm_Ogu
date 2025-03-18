@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45a5baec-f8b6-4123-86e6-a5f0a946d0d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/백준/java/src/그리디/Q2075_N번째큰수.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="45a5baec-f8b6-4123-86e6-a5f0a946d0d5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -292,7 +289,7 @@
       <workItem from="1741539408738" duration="4091000" />
       <workItem from="1741564792886" duration="3305000" />
       <workItem from="1741710225761" duration="7306000" />
-      <workItem from="1741792368952" duration="6053000" />
+      <workItem from="1741792368952" duration="6713000" />
     </task>
     <servers />
   </component>
