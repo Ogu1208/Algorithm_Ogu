@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45a5baec-f8b6-4123-86e6-a5f0a946d0d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/백준/java/src/그리디/Q11399_ATM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/java/src/그리디/Q1802_종이접기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/java/src/그리디/Q2885.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -104,7 +105,9 @@
     "애플리케이션.Q11399_ATM.executor": "Run",
     "애플리케이션.Q122_BestTimeToBuyAndSellStock2.executor": "Run",
     "애플리케이션.Q15_3Sum_투포인터.executor": "Run",
+    "애플리케이션.Q1802_종이접기.executor": "Run",
     "애플리케이션.Q2075_N번째큰수.executor": "Run",
+    "애플리케이션.Q2885.executor": "Run",
     "애플리케이션.Q344_Reverse_String.executor": "Run",
     "애플리케이션.Q42_투포인터.executor": "Run",
     "애플리케이션.Q937_Reorder_Log_Files.executor": "Run",
@@ -127,13 +130,13 @@
       <recent name="D:\Github-Desktop\Algorithm_Ogu\백준\java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.Q11399_ATM">
+  <component name="RunManager" selected="애플리케이션.Q1802_종이접기">
     <configuration name="Q11399_ATM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="그리디.Q11399_ATM" />
       <module name="백준" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="그리디.*" />
+          <option name="PATTERN" value="분할정복.silver.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,7 +149,7 @@
       <module name="Leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="그리디.*" />
+          <option name="PATTERN" value="분할정복.silver.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,12 +157,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q15_3Sum_투포인터" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="배열.Q15_세수의합.Q15_3Sum_투포인터" />
-      <module name="Leetcode" />
+    <configuration name="Q1802_종이접기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="분할정복.silver.Q1802_종이접기" />
+      <module name="백준" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="배열.Q15_세수의합.*" />
+          <option name="PATTERN" value="분할정복.silver.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,7 +175,7 @@
       <module name="백준" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="그리디.*" />
+          <option name="PATTERN" value="분할정복.silver.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,25 +183,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="모험가_길드" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="그리디.모험가_길드" />
-      <module name="national" />
+    <configuration name="Q2885_초콜릿식사" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="그리디.Q2885_초콜릿식사" />
+      <module name="백준" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="그리디.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="배낭_문제_그리디" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="그리디.배낭_문제_그리디" />
-      <module name="Leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="그리디.*" />
+          <option name="PATTERN" value="분할정복.silver.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -234,11 +224,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Q1802_종이접기" />
+        <item itemvalue="애플리케이션.Q2885_초콜릿식사" />
         <item itemvalue="애플리케이션.Q11399_ATM" />
         <item itemvalue="애플리케이션.Q2075_N번째큰수" />
         <item itemvalue="애플리케이션.Q122_BestTimeToBuyAndSellStock2" />
-        <item itemvalue="애플리케이션.Q15_3Sum_투포인터" />
-        <item itemvalue="애플리케이션.모험가_길드" />
       </list>
     </recent_temporary>
   </component>
@@ -294,7 +284,9 @@
       <workItem from="1741564792886" duration="3305000" />
       <workItem from="1741710225761" duration="7306000" />
       <workItem from="1741792368952" duration="6713000" />
-      <workItem from="1742312175790" duration="3771000" />
+      <workItem from="1742312175790" duration="5302000" />
+      <workItem from="1742343014762" duration="10000" />
+      <workItem from="1742476077172" duration="9349000" />
     </task>
     <servers />
   </component>
