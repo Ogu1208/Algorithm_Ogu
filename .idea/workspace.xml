@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45a5baec-f8b6-4123-86e6-a5f0a946d0d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/national/src/그리디/동전_0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/national/src/시뮬레이션_구현_완전탐색/게임_개발.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/java/src/bfs_dfs/Q1012_유기농배추.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/national/시뮬레이션_구현_완전탐색/왕실의나이트.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/national/시뮬레이션_구현_완전탐색/왕실의나이트.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/백준/그리디/Q1542_그리디.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -287,7 +284,7 @@
       <workItem from="1742947857345" duration="1217000" />
       <workItem from="1743775671865" duration="2816000" />
       <workItem from="1744207076382" duration="1453000" />
-      <workItem from="1744239929479" duration="6634000" />
+      <workItem from="1744239929479" duration="11541000" />
     </task>
     <servers />
   </component>
