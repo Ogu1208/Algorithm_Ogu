@@ -30,7 +30,7 @@ public class Q11725_트리의부모찾기 {
             int a = Integer.parseInt(st.nextToken());
             int b = Integer.parseInt(st.nextToken());
 
-            // 무방향 그래프이므로 서로 연결
+            // 무방향 그래프이므로 서로 연결ㅌㅊ ㅍㅋㅍ
             tree[a].add(b);
             tree[b].add(a);
         }

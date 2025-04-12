@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45a5baec-f8b6-4123-86e6-a5f0a946d0d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/백준/java/src/트리/Q11725_트리의부모찾기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/java/src/트리/Q1991_트리순회.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/백준/java/src/트리/Q11725_트리의부모찾기.java" beforeDir="false" afterPath="$PROJECT_DIR$/백준/java/src/트리/Q11725_트리의부모찾기.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,6 +109,7 @@
     "애플리케이션.Q1542_문서검색.executor": "Run",
     "애플리케이션.Q15_3Sum_투포인터.executor": "Run",
     "애플리케이션.Q1802_종이접기.executor": "Run",
+    "애플리케이션.Q1991_트리순회.executor": "Run",
     "애플리케이션.Q2075_N번째큰수.executor": "Run",
     "애플리케이션.Q2885.executor": "Run",
     "애플리케이션.Q344_Reverse_String.executor": "Run",
@@ -135,7 +137,7 @@
       <recent name="D:\Github-Desktop\Algorithm_Ogu\백준\java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.Q11725_트리의부모찾기">
+  <component name="RunManager" selected="애플리케이션.Q1991_트리순회">
     <configuration name="시각" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="시뮬레이션_구현_완전탐색.시각" />
       <module name="national" />
@@ -175,12 +177,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q1802_종이접기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="분할정복.silver.Q1802_종이접기" />
+    <configuration name="Q1991_트리순회" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="트리.Q1991_트리순회" />
       <module name="백준" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="분할정복.silver.*" />
+          <option name="PATTERN" value="트리.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -216,11 +218,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Q1991_트리순회" />
         <item itemvalue="애플리케이션.Q11725_트리의부모찾기" />
         <item itemvalue="애플리케이션.동전_0" />
         <item itemvalue="애플리케이션.Q1542_문서검색" />
         <item itemvalue="애플리케이션.시각" />
-        <item itemvalue="애플리케이션.Q1802_종이접기" />
       </list>
     </recent_temporary>
   </component>
@@ -287,7 +289,7 @@
       <workItem from="1744207076382" duration="1453000" />
       <workItem from="1744239929479" duration="11934000" />
       <workItem from="1744330645636" duration="77000" />
-      <workItem from="1744392510884" duration="2187000" />
+      <workItem from="1744392510884" duration="5321000" />
     </task>
     <servers />
   </component>
@@ -306,15 +308,6 @@
           <url>file://$PROJECT_DIR$/national/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/백준/java/src/트리/Q11725_트리의부모찾기.java</url>
-          <line>14</line>
-          <properties class="트리.Q11725_트리의부모찾기" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
