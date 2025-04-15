@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45a5baec-f8b6-4123-86e6-a5f0a946d0d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/백준/java/src/트리/Q1991_트리순회.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/java/src/DFS_BFS/Q11724_연결요소의개수구하기.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/백준/java/src/트리/Q11725_트리의부모찾기.java" beforeDir="false" afterPath="$PROJECT_DIR$/백준/java/src/트리/Q11725_트리의부모찾기.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/national/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/national/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/national/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/national/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/national/그리디/동전_0.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/national/그리디/동전_0.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/백준/java/src/bfs_dfs/Q1012_유기농배추.java" beforeDir="false" afterPath="$PROJECT_DIR$/백준/java/src/DFS_BFS/Q1012_유기농배추.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +105,9 @@
     "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "preferences.keymap",
     "vue.rearranger.settings.migration": "true",
+    "애플리케이션.Main.executor": "Run",
     "애플리케이션.Q11399_ATM.executor": "Run",
+    "애플리케이션.Q11724_연결요소의개수구하기.executor": "Run",
     "애플리케이션.Q11725_트리의부모찾기.executor": "Run",
     "애플리케이션.Q122_BestTimeToBuyAndSellStock2.executor": "Run",
     "애플리케이션.Q1542_그리디.executor": "Run",
@@ -137,13 +142,20 @@
       <recent name="D:\Github-Desktop\Algorithm_Ogu\백준\java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.Q1991_트리순회">
-    <configuration name="시각" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="시뮬레이션_구현_완전탐색.시각" />
+  <component name="RunManager" selected="애플리케이션.Q11724_연결요소의개수구하기">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="national" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q11724_연결요소의개수구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DFS_BFS.Q11724_연결요소의개수구하기" />
+      <module name="백준" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="시뮬레이션_구현_완전탐색.*" />
+          <option name="PATTERN" value="DFS_BFS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,19 +169,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="트리.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q1542_문서검색" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="그리디.Q1542_문서검색" />
-      <module name="백준" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="그리디.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -218,11 +217,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Q11724_연결요소의개수구하기" />
+        <item itemvalue="애플리케이션.Main" />
         <item itemvalue="애플리케이션.Q1991_트리순회" />
         <item itemvalue="애플리케이션.Q11725_트리의부모찾기" />
         <item itemvalue="애플리케이션.동전_0" />
-        <item itemvalue="애플리케이션.Q1542_문서검색" />
-        <item itemvalue="애플리케이션.시각" />
       </list>
     </recent_temporary>
   </component>
@@ -289,7 +288,8 @@
       <workItem from="1744207076382" duration="1453000" />
       <workItem from="1744239929479" duration="11934000" />
       <workItem from="1744330645636" duration="77000" />
-      <workItem from="1744392510884" duration="5321000" />
+      <workItem from="1744392510884" duration="5714000" />
+      <workItem from="1744690045236" duration="9881000" />
     </task>
     <servers />
   </component>
@@ -303,11 +303,6 @@
           <url>file://$PROJECT_DIR$/national/src/main/java/com/ogu1208/Main.java</url>
           <line>13</line>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/national/src/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

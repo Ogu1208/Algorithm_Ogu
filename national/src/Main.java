@@ -1,15 +1,82 @@
-//TIP 코드를 <b>실행</b>하려면 <shortcut actionId="Run"/>을(를) 누르거나
-// 에디터 여백에 있는 <icon src="AllIcons.Actions.Execute"/> 아이콘을 클릭하세요.
-public class Main {
-    public static void main(String[] args) {
-        //TIP 캐럿을 강조 표시된 텍스트에 놓고 <shortcut actionId="ShowIntentionActions"/>을(를) 누르면
-        // IntelliJ IDEA이(가) 수정을 제안하는 것을 확인할 수 있습니다.
-        System.out.printf("Hello and welcome!");
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.StringTokenizer;
 
-        for (int i = 1; i <= 5; i++) {
-            //TIP <shortcut actionId="Debug"/>을(를) 눌러 코드 디버그를 시작하세요. 1개의 <icon src="AllIcons.Debugger.Db_set_breakpoint"/> 중단점을 설정해 드렸습니다
-            // 언제든 <shortcut actionId="ToggleLineBreakpoint"/>을(를) 눌러 중단점을 더 추가할 수 있습니다.
-            System.out.println("i = " + i);
+public class Main {
+
+    public static int N, M, x, y, direction;
+    public static int[][] map;
+    public static int[][] visited;
+
+    // 0: 북, 1: 동, 2: 남, 3: 서 (인덱스 개념)
+    public static int[] dx = {-1, 0, -1, 0};
+    public static int[] dy = {0, 1, 0, -1};
+
+    public static void turn_left() {
+        direction -= 1;
+        if (direction == -1) direction = 3;
+    }
+
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringTokenizer st;
+
+        st = new StringTokenizer(br.readLine());
+        N = Integer.parseInt(st.nextToken());
+        M = Integer.parseInt(st.nextToken());
+        map = new int[N][M];
+        visited = new int[N][M];
+
+        st = new StringTokenizer(br.readLine());
+        x = Integer.parseInt(st.nextToken());
+        y = Integer.parseInt(st.nextToken());
+        direction = Integer.parseInt(st.nextToken());
+
+        for (int i = 0; i < N; i++) {
+            st = new StringTokenizer(br.readLine());
+
+            for (int j = 0; j < M; j++) {
+                map[i][j] = Integer.parseInt(st.nextToken());
+            }
         }
+
+        int count = 1;
+        int turn_time = 0;
+
+        while (true) {
+
+            turn_left();
+            int now_x = x + dx[direction];
+            int now_y = y + dy[direction];
+
+            if (visited[now_x][now_y] == 0 && map[now_x][now_y] == 0) {
+                count++;
+                x = now_x;
+                y = now_y;
+
+                visited[x][y] = 1;
+                turn_time = 0;
+                continue;
+            } else {
+                turn_time += 1;
+            }
+
+            if (turn_time == 4) { // 네번 돌아서 원위치 된 경우
+                now_x = x - dx[direction];
+                now_y = y - dy[direction];
+
+                if (map[now_x][now_y] == 0) { // 육지이면 뒤로 한간, 아니면 break
+                    // (count세는게 아니니까 가봤는지는 체크할 필요 X)
+                    x = now_x;
+                    y = now_y;
+                    turn_time = 0;
+                }
+
+                else break;
+            }
+        }
+
+        System.out.println(count);
     }
 }
