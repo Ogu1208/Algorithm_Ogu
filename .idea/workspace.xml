@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45a5baec-f8b6-4123-86e6-a5f0a946d0d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/백준/java/src/DFS_BFS/Q11724_연결요소의개수구하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/national/src/DFS_BFS/미로탈출.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/national/src/DFS_BFS/음료수_얼려먹기.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/national/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/national/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/national/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/national/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/national/그리디/동전_0.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/national/그리디/동전_0.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/백준/java/src/bfs_dfs/Q1012_유기농배추.java" beforeDir="false" afterPath="$PROJECT_DIR$/백준/java/src/DFS_BFS/Q1012_유기농배추.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +68,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="PerforceDirect.Settings">
+    <option name="CHARSET" value="없음" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -123,10 +123,12 @@
     "애플리케이션.곱하기_혹은_더하기.executor": "Run",
     "애플리케이션.동전_0.executor": "Run",
     "애플리케이션.모험가_길드.executor": "Run",
+    "애플리케이션.미로탈출.executor": "Run",
     "애플리케이션.배낭_문제_그리디.executor": "Run",
     "애플리케이션.숫자_카드_게임.executor": "Run",
     "애플리케이션.시각.executor": "Run",
     "애플리케이션.왕실의나이트.executor": "Run",
+    "애플리케이션.음료수_얼려먹기.executor": "Run",
     "애플리케이션.큰_수의_법칙.executor": "Run"
   }
 }]]></component>
@@ -142,7 +144,20 @@
       <recent name="D:\Github-Desktop\Algorithm_Ogu\백준\java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.Q11724_연결요소의개수구하기">
+  <component name="RunManager" selected="애플리케이션.미로탈출">
+    <configuration name="미로탈출" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DFS_BFS.미로탈출" />
+      <module name="national" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DFS_BFS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="national" />
@@ -163,19 +178,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q11725_트리의부모찾기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="트리.Q11725_트리의부모찾기" />
-      <module name="백준" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="트리.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Q1991_트리순회" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="트리.Q1991_트리순회" />
       <module name="백준" />
@@ -189,25 +191,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="왕실의나이트" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="시뮬레이션_구현_완전탐색.왕실의나이트" />
+    <configuration name="음료수_얼려먹기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DFS_BFS.음료수_얼려먹기" />
       <module name="national" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="시뮬레이션_구현_완전탐색.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="동전_0" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="그리디.동전_0" />
-      <module name="national" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="그리디.*" />
+          <option name="PATTERN" value="DFS_BFS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -217,11 +206,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.미로탈출" />
+        <item itemvalue="애플리케이션.음료수_얼려먹기" />
         <item itemvalue="애플리케이션.Q11724_연결요소의개수구하기" />
         <item itemvalue="애플리케이션.Main" />
         <item itemvalue="애플리케이션.Q1991_트리순회" />
-        <item itemvalue="애플리케이션.Q11725_트리의부모찾기" />
-        <item itemvalue="애플리케이션.동전_0" />
       </list>
     </recent_temporary>
   </component>
@@ -289,7 +278,9 @@
       <workItem from="1744239929479" duration="11934000" />
       <workItem from="1744330645636" duration="77000" />
       <workItem from="1744392510884" duration="5714000" />
-      <workItem from="1744690045236" duration="9881000" />
+      <workItem from="1744690045236" duration="10291000" />
+      <workItem from="1744796786688" duration="7998000" />
+      <workItem from="1744876673237" duration="5329000" />
     </task>
     <servers />
   </component>
