@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45a5baec-f8b6-4123-86e6-a5f0a946d0d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/백준/java/src/DFS_BFS/Q1260_DFS와BFS프로그램.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/java/src/그리디/Q1931_회의실배정.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/java/src/그리디/Q2829_설탕배달.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/백준/DFS_BFS/Q2023_신기한소수찾기.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/백준/DFS_BFS/Q2023_신기한소수찾기.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/백준/DFS_BFS/Q1260_DFS와BFS프로그램.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/백준/DFS_BFS/Q1260_DFS와BFS프로그램.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,9 +113,11 @@
     "애플리케이션.Q1542_문서검색.executor": "Run",
     "애플리케이션.Q15_3Sum_투포인터.executor": "Run",
     "애플리케이션.Q1802_종이접기.executor": "Run",
+    "애플리케이션.Q1931_회의실배정.executor": "Run",
     "애플리케이션.Q1991_트리순회.executor": "Run",
     "애플리케이션.Q2023_신기한소수찾기.executor": "Run",
     "애플리케이션.Q2075_N번째큰수.executor": "Run",
+    "애플리케이션.Q2829_설탕배달.executor": "Run",
     "애플리케이션.Q2885.executor": "Run",
     "애플리케이션.Q344_Reverse_String.executor": "Run",
     "애플리케이션.Q42_투포인터.executor": "Run",
@@ -143,23 +146,10 @@
       <recent name="D:\Github-Desktop\Algorithm_Ogu\백준\java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.Q1260_DFS와BFS프로그램">
+  <component name="RunManager" selected="애플리케이션.Q1931_회의실배정">
     <configuration name="미로탈출" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DFS_BFS.미로탈출" />
       <module name="national" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DFS_BFS.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q11724_연결요소의개수구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DFS_BFS.Q11724_연결요소의개수구하기" />
-      <module name="백준" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="DFS_BFS.*" />
@@ -183,6 +173,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Q1931_회의실배정" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="그리디.Q1931_회의실배정" />
+      <module name="백준" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="그리디.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Q2023_신기한소수찾기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DFS_BFS.Q2023_신기한소수찾기" />
       <module name="백준" />
@@ -196,12 +199,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="음료수_얼려먹기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DFS_BFS.음료수_얼려먹기" />
-      <module name="national" />
+    <configuration name="Q2829_설탕배달" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="그리디.Q2829_설탕배달" />
+      <module name="백준" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DFS_BFS.*" />
+          <option name="PATTERN" value="그리디.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -211,11 +214,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Q1931_회의실배정" />
+        <item itemvalue="애플리케이션.Q2829_설탕배달" />
         <item itemvalue="애플리케이션.Q1260_DFS와BFS프로그램" />
         <item itemvalue="애플리케이션.Q2023_신기한소수찾기" />
         <item itemvalue="애플리케이션.미로탈출" />
-        <item itemvalue="애플리케이션.음료수_얼려먹기" />
-        <item itemvalue="애플리케이션.Q11724_연결요소의개수구하기" />
       </list>
     </recent_temporary>
   </component>
@@ -287,7 +290,8 @@
       <workItem from="1744796786688" duration="7998000" />
       <workItem from="1744876673237" duration="5700000" />
       <workItem from="1744935729905" duration="5000" />
-      <workItem from="1744950440675" duration="6984000" />
+      <workItem from="1744950440675" duration="7910000" />
+      <workItem from="1745127196016" duration="2361000" />
     </task>
     <servers />
   </component>
