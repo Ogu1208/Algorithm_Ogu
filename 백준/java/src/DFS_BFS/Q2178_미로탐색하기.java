@@ -1,18 +1,17 @@
+package DFS_BFS;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class Main {
-
+public class Q2178_미로탐색하기 {
     static int N, M;
     static int[][] map;
     static boolean[][] visited;
 
-    // 북 동 남 서
     static int[] dirX = {-1, 0, 1, 0};
     static int[] dirY = {0, 1, 0, -1};
 
@@ -44,14 +43,8 @@ public class Main {
             }
         }
 
-        for (int i = 0; i < N; i++) {
-            System.out.println(Arrays.toString(map[i]));
-        }
         bfs();
         System.out.println(map[N - 1][M - 1]);
-        for (int i = 0; i < N; i++) {
-            System.out.println(Arrays.toString(map[i]));
-        }
     }
 
     static void bfs() {
@@ -66,20 +59,18 @@ public class Main {
                 int now_x = node.x + dirX[i];
                 int now_y = node.y + dirY[i];
 
-                // 범위 내에 없으면 패스
+                // 맵에 있는 좌표인지 확인
                 if (now_x < 0 || now_y < 0 || now_x >= N || now_y >= M)
                     continue;
 
-                // 괴물이 없는 부분(1) 이고, 방문한 적이 없으면
+                // 이동할 수 있는 칸(1)이고, 방문한 적이 없다면
                 if (map[now_x][now_y] == 1 && !visited[now_x][now_y]) {
-                    // queue에 넣기
+                    // 큐에 넣기
                     queue.offer(new Node(now_x, now_y));
-
-                    // map에 거리 저장, visited 처리
-                    map[now_x][now_y] = map[node.x][node.y] + 1;
+                    // 방문처리 + 거리 저장
                     visited[now_x][now_y] = true;
+                    map[now_x][now_y] = map[node.x][node.y] + 1;
                 }
-
             }
         }
     }
