@@ -90,7 +90,7 @@ public class Q1753_최단경로 {
                     // distance 테이블 값 갱신
                     distance[nextNode.end] = distance[curNode.end] + nextNode.weight;
                     // 큐에 넣기
-                    pq.add(new Node(nextNode.end, nextNode.weight));
+                    pq.add(new Node(nextNode.end, distance[nextNode.end]));
                 }
             }
         }

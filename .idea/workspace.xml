@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45a5baec-f8b6-4123-86e6-a5f0a946d0d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/백준/java/src/다익스트라/Q1753_최단경로.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/java/src/다익스트라/Q11779_최소비용구하기.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/백준/java/src/다익스트라/Q1753_최단경로.java" beforeDir="false" afterPath="$PROJECT_DIR$/백준/java/src/다익스트라/Q1753_최단경로.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +81,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Q11779_최소비용구하기.executor": "Run",
     "Application.Q125_Palindrome.executor": "Run",
     "Application.Q1753_최단경로.executor": "Run",
     "Kotlin.Q125_Palindrome_kotlinKt.executor": "Run",
@@ -146,13 +148,13 @@
       <recent name="D:\Github-Desktop\Algorithm_Ogu\백준\java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q1753_최단경로">
-    <configuration name="Q1260_DFS와BFS프로그램" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DFS_BFS.Q1260_DFS와BFS프로그램" />
+  <component name="RunManager" selected="Application.Q11779_최소비용구하기">
+    <configuration name="Q11779_최소비용구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="다익스트라.Q11779_최소비용구하기" />
       <module name="백준" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DFS_BFS.*" />
+          <option name="PATTERN" value="다익스트라.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -214,6 +216,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q11779_최소비용구하기" />
         <item itemvalue="Application.Q1753_최단경로" />
       </list>
     </recent_temporary>
@@ -291,7 +294,9 @@
       <workItem from="1745222719062" duration="5405000" />
       <workItem from="1745289201851" duration="295000" />
       <workItem from="1745289510203" duration="158000" />
-      <workItem from="1745289692548" duration="5641000" />
+      <workItem from="1745289692548" duration="8443000" />
+      <workItem from="1745324281298" duration="858000" />
+      <workItem from="1745394223829" duration="3794000" />
     </task>
     <servers />
   </component>
