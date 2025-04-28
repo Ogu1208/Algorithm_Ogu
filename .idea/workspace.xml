@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45a5baec-f8b6-4123-86e6-a5f0a946d0d5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/백준/java/src/DP/Q2579_계단오르기.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/백준/DP/Q1932_정수삼각형.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/백준/DP/Q1932_정수삼각형.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +85,7 @@
     "Application.Q125_Palindrome.executor": "Run",
     "Application.Q1753_최단경로.executor": "Run",
     "Application.Q1932_정수삼각형.executor": "Run",
+    "Application.Q2579_계단오르기.executor": "Run",
     "Application.Q9461_파도반수열.executor": "Run",
     "Kotlin.Q125_Palindrome_kotlinKt.executor": "Run",
     "Kotlin.Q334_Revserse_String_kotlin.executor": "Run",
@@ -148,7 +151,7 @@
       <recent name="D:\Github-Desktop\Algorithm_Ogu\백준\java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q1932_정수삼각형">
+  <component name="RunManager" selected="Application.Q2579_계단오르기">
     <configuration name="Q11779_최소비용구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="다익스트라.Q11779_최소비용구하기" />
       <module name="백준" />
@@ -188,12 +191,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q2829_설탕배달" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="그리디.Q2829_설탕배달" />
+    <configuration name="Q2579_계단오르기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP.Q2579_계단오르기" />
       <module name="백준" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="그리디.*" />
+          <option name="PATTERN" value="DP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -216,6 +219,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q2579_계단오르기" />
         <item itemvalue="Application.Q1932_정수삼각형" />
         <item itemvalue="Application.Q9461_파도반수열" />
         <item itemvalue="Application.Q11779_최소비용구하기" />
@@ -300,7 +304,7 @@
       <workItem from="1745324281298" duration="858000" />
       <workItem from="1745394223829" duration="7169000" />
       <workItem from="1745544436591" duration="6799000" />
-      <workItem from="1745759859293" duration="6378000" />
+      <workItem from="1745759859293" duration="9331000" />
     </task>
     <servers />
   </component>
