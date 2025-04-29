@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45a5baec-f8b6-4123-86e6-a5f0a946d0d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/백준/java/src/DP/Q2579_계단오르기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/java/src/DP/Q12865_평범한배낭.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/백준/DP/Q1932_정수삼각형.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/백준/DP/Q1932_정수삼각형.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +82,7 @@
   "keyToString": {
     "Application.Q11779_최소비용구하기.executor": "Run",
     "Application.Q125_Palindrome.executor": "Run",
+    "Application.Q12865_평범한배낭.executor": "Run",
     "Application.Q1753_최단경로.executor": "Run",
     "Application.Q1932_정수삼각형.executor": "Run",
     "Application.Q2579_계단오르기.executor": "Run",
@@ -151,7 +151,7 @@
       <recent name="D:\Github-Desktop\Algorithm_Ogu\백준\java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q2579_계단오르기">
+  <component name="RunManager" selected="Application.Q12865_평범한배낭">
     <configuration name="Q11779_최소비용구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="다익스트라.Q11779_최소비용구하기" />
       <module name="백준" />
@@ -165,12 +165,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q1753_최단경로" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="다익스트라.Q1753_최단경로" />
+    <configuration name="Q12865_평범한배낭" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP.Q12865_평범한배낭" />
       <module name="백준" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="다익스트라.*" />
+          <option name="PATTERN" value="DP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -219,11 +219,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q12865_평범한배낭" />
         <item itemvalue="Application.Q2579_계단오르기" />
         <item itemvalue="Application.Q1932_정수삼각형" />
         <item itemvalue="Application.Q9461_파도반수열" />
         <item itemvalue="Application.Q11779_최소비용구하기" />
-        <item itemvalue="Application.Q1753_최단경로" />
       </list>
     </recent_temporary>
   </component>
@@ -304,7 +304,8 @@
       <workItem from="1745324281298" duration="858000" />
       <workItem from="1745394223829" duration="7169000" />
       <workItem from="1745544436591" duration="6799000" />
-      <workItem from="1745759859293" duration="9331000" />
+      <workItem from="1745759859293" duration="10906000" />
+      <workItem from="1745904106232" duration="1368000" />
     </task>
     <servers />
   </component>
