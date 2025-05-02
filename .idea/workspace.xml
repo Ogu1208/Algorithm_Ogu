@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45a5baec-f8b6-4123-86e6-a5f0a946d0d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/백준/java/src/DP/Q9251_LCS_최장공통부분수열찾기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/백준/java/src/DP/Q9252_LCS2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/백준/java/src/DFS_BFS/Q1697_숨바꼭질.java" beforeDir="false" afterPath="$PROJECT_DIR$/백준/java/src/DFS_BFS/Q1697_숨바꼭질.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +85,7 @@
     "Application.Q12015_가장긴증가하는부분수열2.executor": "Run",
     "Application.Q125_Palindrome.executor": "Run",
     "Application.Q12865_평범한배낭.executor": "Run",
+    "Application.Q1697_숨바꼭질.executor": "Run",
     "Application.Q1753_최단경로.executor": "Run",
     "Application.Q1932_정수삼각형.executor": "Run",
     "Application.Q2579_계단오르기.executor": "Run",
@@ -155,7 +155,7 @@
       <recent name="D:\Github-Desktop\Algorithm_Ogu\백준\java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q9252_LCS2">
+  <component name="RunManager" selected="Application.Q1697_숨바꼭질">
     <configuration name="Q11053_가장긴증가하는부분수열" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DP.Q11053_가장긴증가하는부분수열" />
       <module name="백준" />
@@ -195,12 +195,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q2579_계단오르기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.Q2579_계단오르기" />
+    <configuration name="Q1697_숨바꼭질" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DFS_BFS.Q1697_숨바꼭질" />
       <module name="백준" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DP.*" />
+          <option name="PATTERN" value="DFS_BFS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -223,11 +223,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q1697_숨바꼭질" />
         <item itemvalue="Application.Q9252_LCS2" />
         <item itemvalue="Application.Q12015_가장긴증가하는부분수열2" />
         <item itemvalue="Application.Q11053_가장긴증가하는부분수열" />
         <item itemvalue="Application.Q12865_평범한배낭" />
-        <item itemvalue="Application.Q2579_계단오르기" />
       </list>
     </recent_temporary>
   </component>
@@ -311,7 +311,8 @@
       <workItem from="1745759859293" duration="10906000" />
       <workItem from="1745904106232" duration="7049000" />
       <workItem from="1745979182945" duration="119000" />
-      <workItem from="1746010132443" duration="3789000" />
+      <workItem from="1746010132443" duration="5601000" />
+      <workItem from="1746168451063" duration="8600000" />
     </task>
     <servers />
   </component>
