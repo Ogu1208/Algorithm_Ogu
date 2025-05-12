@@ -12,7 +12,7 @@ public class Q2583_영역구하기 {
     static int M, N, K;
     static int[][] map;
     static boolean[][] visited;
-    static ArrayList<Integer> area;
+    static ArrayList<Integer> area = new ArrayList<>();
 
     // 북 동 남 서
     static int[] dirX = {-1, 0, 1, 0};

@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45a5baec-f8b6-4123-86e6-a5f0a946d0d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/백준/java/src/DFS_BFS/Q2583_영역구하기.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/백준/java/src/DFS_BFS/Q2583_영역구하기.java" beforeDir="false" afterPath="$PROJECT_DIR$/백준/java/src/DFS_BFS/Q2583_영역구하기.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,75 +78,76 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Q11053_가장긴증가하는부분수열.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q11779_최소비용구하기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q12015_가장긴증가하는부분수열2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q125_Palindrome.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q12865_평범한배낭.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q1697_숨바꼭질.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q1753_최단경로.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q1926_그림.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q1932_정수삼각형.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q2579_계단오르기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q2667_단지번호붙이기.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q7562_나이트의이동.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q7576_토마토.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q9252_LCS2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Q9461_파도반수열.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Q125_Palindrome_kotlinKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Q334_Revserse_String_kotlin.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/ogu/Desktop/Github-Desktop/Algorithm_Ogu&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/ogu/Desktop/Github-Desktop/Algorithm_Ogu/national/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;프로젝트&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
-    &quot;애플리케이션.Main.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Q11399_ATM.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Q11724_연결요소의개수구하기.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Q11725_트리의부모찾기.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Q122_BestTimeToBuyAndSellStock2.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Q1260_DFS와BFS프로그램.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Q1542_그리디.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Q1542_문서검색.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Q15_3Sum_투포인터.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Q1802_종이접기.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Q1931_회의실배정.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Q1991_트리순회.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Q2023_신기한소수찾기.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Q2075_N번째큰수.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Q2178_미로탐색하기.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Q2829_설탕배달.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Q2885.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Q344_Reverse_String.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Q42_투포인터.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.Q937_Reorder_Log_Files.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.곱하기_혹은_더하기.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.동전_0.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.모험가_길드.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.미로탈출.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.배낭_문제_그리디.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.숫자_카드_게임.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.시각.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.왕실의나이트.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.음료수_얼려먹기.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.큰_수의_법칙.executor&quot;: &quot;Run&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Q11053_가장긴증가하는부분수열.executor": "Run",
+    "Application.Q11779_최소비용구하기.executor": "Run",
+    "Application.Q12015_가장긴증가하는부분수열2.executor": "Run",
+    "Application.Q125_Palindrome.executor": "Run",
+    "Application.Q12865_평범한배낭.executor": "Run",
+    "Application.Q1697_숨바꼭질.executor": "Run",
+    "Application.Q1753_최단경로.executor": "Run",
+    "Application.Q1926_그림.executor": "Run",
+    "Application.Q1932_정수삼각형.executor": "Run",
+    "Application.Q2579_계단오르기.executor": "Run",
+    "Application.Q2583_영역구하기.executor": "Run",
+    "Application.Q2667_단지번호붙이기.executor": "Run",
+    "Application.Q7562_나이트의이동.executor": "Run",
+    "Application.Q7576_토마토.executor": "Run",
+    "Application.Q9252_LCS2.executor": "Run",
+    "Application.Q9461_파도반수열.executor": "Run",
+    "Kotlin.Q125_Palindrome_kotlinKt.executor": "Run",
+    "Kotlin.Q334_Revserse_String_kotlin.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "11",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/ogu/Desktop/Github-Desktop/Algorithm_Ogu",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/ogu/Desktop/Github-Desktop/Algorithm_Ogu/national/src/Main.java",
+    "project.structure.last.edited": "프로젝트",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true",
+    "애플리케이션.Main.executor": "Run",
+    "애플리케이션.Q11399_ATM.executor": "Run",
+    "애플리케이션.Q11724_연결요소의개수구하기.executor": "Run",
+    "애플리케이션.Q11725_트리의부모찾기.executor": "Run",
+    "애플리케이션.Q122_BestTimeToBuyAndSellStock2.executor": "Run",
+    "애플리케이션.Q1260_DFS와BFS프로그램.executor": "Run",
+    "애플리케이션.Q1542_그리디.executor": "Run",
+    "애플리케이션.Q1542_문서검색.executor": "Run",
+    "애플리케이션.Q15_3Sum_투포인터.executor": "Run",
+    "애플리케이션.Q1802_종이접기.executor": "Run",
+    "애플리케이션.Q1931_회의실배정.executor": "Run",
+    "애플리케이션.Q1991_트리순회.executor": "Run",
+    "애플리케이션.Q2023_신기한소수찾기.executor": "Run",
+    "애플리케이션.Q2075_N번째큰수.executor": "Run",
+    "애플리케이션.Q2178_미로탐색하기.executor": "Run",
+    "애플리케이션.Q2829_설탕배달.executor": "Run",
+    "애플리케이션.Q2885.executor": "Run",
+    "애플리케이션.Q344_Reverse_String.executor": "Run",
+    "애플리케이션.Q42_투포인터.executor": "Run",
+    "애플리케이션.Q937_Reorder_Log_Files.executor": "Run",
+    "애플리케이션.곱하기_혹은_더하기.executor": "Run",
+    "애플리케이션.동전_0.executor": "Run",
+    "애플리케이션.모험가_길드.executor": "Run",
+    "애플리케이션.미로탈출.executor": "Run",
+    "애플리케이션.배낭_문제_그리디.executor": "Run",
+    "애플리케이션.숫자_카드_게임.executor": "Run",
+    "애플리케이션.시각.executor": "Run",
+    "애플리케이션.왕실의나이트.executor": "Run",
+    "애플리케이션.음료수_얼려먹기.executor": "Run",
+    "애플리케이션.큰_수의_법칙.executor": "Run"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Github-Desktop\Algorithm_Ogu\백준\Silver" />
@@ -159,9 +160,9 @@
       <recent name="D:\Github-Desktop\Algorithm_Ogu\백준\java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q1926_그림">
-    <configuration name="Q1697_숨바꼭질" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DFS_BFS.Q1697_숨바꼭질" />
+  <component name="RunManager" selected="Application.Q2583_영역구하기">
+    <configuration name="Q1926_그림" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DFS_BFS.Q1926_그림" />
       <module name="백준" />
       <extension name="coverage">
         <pattern>
@@ -173,8 +174,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q1926_그림" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DFS_BFS.Q1926_그림" />
+    <configuration name="Q2583_영역구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DFS_BFS.Q2583_영역구하기" />
       <module name="백준" />
       <extension name="coverage">
         <pattern>
@@ -227,11 +228,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q2583_영역구하기" />
         <item itemvalue="Application.Q1926_그림" />
         <item itemvalue="Application.Q7562_나이트의이동" />
         <item itemvalue="Application.Q2667_단지번호붙이기" />
         <item itemvalue="Application.Q7576_토마토" />
-        <item itemvalue="Application.Q1697_숨바꼭질" />
       </list>
     </recent_temporary>
   </component>
@@ -322,7 +323,7 @@
       <workItem from="1746538855102" duration="1709000" />
       <workItem from="1746706672101" duration="3622000" />
       <workItem from="1746754346807" duration="19000" />
-      <workItem from="1746973902249" duration="1072000" />
+      <workItem from="1746973902249" duration="4307000" />
     </task>
     <servers />
   </component>
