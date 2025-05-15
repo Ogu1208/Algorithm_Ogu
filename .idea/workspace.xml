@@ -5,7 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45a5baec-f8b6-4123-86e6-a5f0a946d0d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/national/src/정렬/성적이_낮은_순서로_학생_출력하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/goorm.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/goorm.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goorm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goorm/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goorm/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goorm/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goorm/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goorm/src/main/java/com/ogu1208/정렬/이진수_정렬.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/goorm/src/main/java/com/ogu1208/정렬/해적왕_구름이.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +29,9 @@
     <execution />
   </component>
   <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/goorm">
+      <ProjectState />
+    </projectState>
     <projectState path="$PROJECT_DIR$/national">
       <ProjectState />
     </projectState>
@@ -99,6 +115,8 @@
     "Application.두_배열의_원소_교체.executor": "Run",
     "Application.성적이_낮은_순서로_학생_출력하기.executor": "Run",
     "Application.위에서_아래로.executor": "Run",
+    "Gradle.goorm [:이진수_정렬.main()].executor": "Run",
+    "Gradle.goorm [:해적왕_구름이.main()].executor": "Run",
     "Kotlin.Q125_Palindrome_kotlinKt.executor": "Run",
     "Kotlin.Q334_Revserse_String_kotlin.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -113,7 +131,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/Users/ogu/Desktop/Github-Desktop/Algorithm_Ogu/national/src/Main.java",
+    "onboarding.tips.debug.path": "/Users/ogu/Desktop/Github-Desktop/Algorithm_Ogu/goorm/src/main/java/com/ogu1208/Main.java",
     "project.structure.last.edited": "프로젝트",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -163,13 +181,13 @@
       <recent name="D:\Github-Desktop\Algorithm_Ogu\백준\java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.성적이_낮은_순서로_학생_출력하기">
-    <configuration name="Q2583_영역구하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DFS_BFS.Q2583_영역구하기" />
-      <module name="백준" />
+  <component name="RunManager" selected="Application.이진수_정렬">
+    <configuration name="계수_정렬" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="정렬.계수_정렬" />
+      <module name="national" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DFS_BFS.*" />
+          <option name="PATTERN" value="정렬.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,12 +195,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="계수_정렬" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="정렬.계수_정렬" />
-      <module name="national" />
+    <configuration name="해적왕_구름이" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ogu1208.정렬.해적왕_구름이" />
+      <module name="goorm.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="정렬.*" />
+          <option name="PATTERN" value="com.ogu1208.정렬.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="이진수_정렬" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ogu1208.정렬.이진수_정렬" />
+      <module name="goorm.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ogu1208.정렬.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -231,11 +262,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.이진수_정렬" />
+        <item itemvalue="Application.해적왕_구름이" />
         <item itemvalue="Application.성적이_낮은_순서로_학생_출력하기" />
-        <item itemvalue="Application.위에서_아래로" />
         <item itemvalue="Application.두_배열의_원소_교체" />
         <item itemvalue="Application.계수_정렬" />
-        <item itemvalue="Application.Q2583_영역구하기" />
       </list>
     </recent_temporary>
   </component>
@@ -328,7 +359,9 @@
       <workItem from="1746754346807" duration="19000" />
       <workItem from="1746973902249" duration="4307000" />
       <workItem from="1747042678545" duration="2422000" />
-      <workItem from="1747209065122" duration="2440000" />
+      <workItem from="1747209065122" duration="5387000" />
+      <workItem from="1747267884117" duration="473000" />
+      <workItem from="1747284652676" duration="2229000" />
     </task>
     <servers />
   </component>
@@ -342,6 +375,16 @@
           <url>file://$PROJECT_DIR$/national/src/main/java/com/ogu1208/Main.java</url>
           <line>13</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/goorm/src/main/java/com/ogu1208/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/백준/java/src/다익스트라/Q1753_최단경로.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

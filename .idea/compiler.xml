@@ -2,6 +2,9 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="goorm" target="11" />
+      <module name="goorm.main" target="11" />
+      <module name="goorm.test" target="11" />
       <module name="national" target="11" />
       <module name="national.main" target="11" />
       <module name="national.test" target="11" />
