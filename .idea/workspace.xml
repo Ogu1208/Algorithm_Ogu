@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45a5baec-f8b6-4123-86e6-a5f0a946d0d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/national/src/이진탐색/부품_찾기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/national/src/이진탐색/떡볶이_떡_만들기.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -101,6 +101,7 @@
     "Application.Q9461_파도반수열.executor": "Run",
     "Application.계수_정렬.executor": "Run",
     "Application.두_배열의_원소_교체.executor": "Run",
+    "Application.떡볶이_떡_만들기.executor": "Run",
     "Application.부품_찾기.executor": "Run",
     "Application.성적이_낮은_순서로_학생_출력하기.executor": "Run",
     "Application.위에서_아래로.executor": "Run",
@@ -170,7 +171,7 @@
       <recent name="D:\Github-Desktop\Algorithm_Ogu\백준\java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.부품_찾기">
+  <component name="RunManager" selected="Application.떡볶이_떡_만들기">
     <configuration name="계수_정렬" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="정렬.계수_정렬" />
       <module name="national" />
@@ -236,6 +237,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="떡볶이_떡_만들기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="이진탐색.떡볶이_떡_만들기" />
+      <module name="national" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="이진탐색.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="두_배열의_원소_교체" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="정렬.두_배열의_원소_교체" />
       <module name="national" />
@@ -264,6 +278,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.떡볶이_떡_만들기" />
         <item itemvalue="Application.부품_찾기" />
         <item itemvalue="Application.성적이_낮은_순서로_학생_출력하기" />
         <item itemvalue="Application.두_배열의_원소_교체" />
@@ -365,7 +380,7 @@
       <workItem from="1747284652676" duration="2993000" />
       <workItem from="1747354452729" duration="5000" />
       <workItem from="1747384703985" duration="2084000" />
-      <workItem from="1747488130346" duration="1051000" />
+      <workItem from="1747488130346" duration="4538000" />
     </task>
     <servers />
   </component>
