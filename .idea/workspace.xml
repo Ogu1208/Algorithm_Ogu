@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45a5baec-f8b6-4123-86e6-a5f0a946d0d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/national/src/이진탐색/부품_찾기_Set버전.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/java/src/이분탐색/Q1920_수찾기.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/national/src/이진탐색/부품_찾기.java" beforeDir="false" afterPath="$PROJECT_DIR$/national/src/이진탐색/부품_찾기.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,7 +171,20 @@
       <recent name="D:\Github-Desktop\Algorithm_Ogu\백준\java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.떡볶이_떡_만들기">
+  <component name="RunManager" selected="Application.Q1920_수찾기">
+    <configuration name="Q1920_수찾기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="이분탐색.Q1920_수찾기" />
+      <module name="백준" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="이분탐색.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="계수_정렬" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="정렬.계수_정렬" />
       <module name="national" />
@@ -279,6 +291,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q1920_수찾기" />
         <item itemvalue="Application.떡볶이_떡_만들기" />
         <item itemvalue="Application.성적이_낮은_순서로_학생_출력하기" />
         <item itemvalue="Application.두_배열의_원소_교체" />
@@ -381,7 +394,9 @@
       <workItem from="1747354452729" duration="5000" />
       <workItem from="1747384703985" duration="2084000" />
       <workItem from="1747488130346" duration="4637000" />
-      <workItem from="1747561998040" duration="571000" />
+      <workItem from="1747561998040" duration="595000" />
+      <workItem from="1747565974558" duration="14000" />
+      <workItem from="1747645337138" duration="786000" />
     </task>
     <servers />
   </component>
