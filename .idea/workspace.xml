@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45a5baec-f8b6-4123-86e6-a5f0a946d0d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/national/src/DP/금광.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/national/src/DP/병사_배치하기.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -107,6 +107,7 @@
     "Application.금광.executor": "Run",
     "Application.두_배열의_원소_교체.executor": "Run",
     "Application.떡볶이_떡_만들기.executor": "Run",
+    "Application.병사_배치하기.executor": "Run",
     "Application.부품_찾기.executor": "Run",
     "Application.성적이_낮은_순서로_학생_출력하기.executor": "Run",
     "Application.위에서_아래로.executor": "Run",
@@ -180,7 +181,7 @@
       <recent name="D:\Github-Desktop\Algorithm_Ogu\백준\java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.금광">
+  <component name="RunManager" selected="Application.병사_배치하기">
     <configuration name="효율적인화폐구성" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DP.효율적인화폐구성" />
       <module name="national" />
@@ -207,19 +208,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DP_Algorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DP.DP_Algorithm" />
-      <module name="national" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DP.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="개미_전사" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DP.개미_전사" />
       <module name="national" />
@@ -235,6 +223,19 @@
     </configuration>
     <configuration name="_1로만들기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DP._1로만들기" />
+      <module name="national" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="병사_배치하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP.병사_배치하기" />
       <module name="national" />
       <extension name="coverage">
         <pattern>
@@ -313,11 +314,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.병사_배치하기" />
         <item itemvalue="Application.금광" />
         <item itemvalue="Application.효율적인화폐구성" />
         <item itemvalue="Application._1로만들기" />
         <item itemvalue="Application.개미_전사" />
-        <item itemvalue="Application.DP_Algorithm" />
       </list>
     </recent_temporary>
   </component>
@@ -424,7 +425,7 @@
       <workItem from="1747818237356" duration="7203000" />
       <workItem from="1747901581474" duration="3999000" />
       <workItem from="1747991024054" duration="9202000" />
-      <workItem from="1748162598561" duration="3643000" />
+      <workItem from="1748162598561" duration="5927000" />
     </task>
     <servers />
   </component>
