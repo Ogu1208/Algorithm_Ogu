@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45a5baec-f8b6-4123-86e6-a5f0a946d0d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/national/src/DP/병사_배치하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/java/src/DP/Q14501_퇴사_준비하기.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/백준/java/src/DP/Q1463_정수를_1로_만들기.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,6 +90,7 @@
     "Application.Q12015_가장긴증가하는부분수열2.executor": "Run",
     "Application.Q125_Palindrome.executor": "Run",
     "Application.Q12865_평범한배낭.executor": "Run",
+    "Application.Q1463_정수를_1로_만들기.executor": "Run",
     "Application.Q1697_숨바꼭질.executor": "Run",
     "Application.Q1753_최단경로.executor": "Run",
     "Application.Q1920_수찾기.executor": "Run",
@@ -181,10 +183,23 @@
       <recent name="D:\Github-Desktop\Algorithm_Ogu\백준\java\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.병사_배치하기">
+  <component name="RunManager" selected="Application.Q1463_정수를_1로_만들기">
     <configuration name="효율적인화폐구성" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DP.효율적인화폐구성" />
       <module name="national" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q1463_정수를_1로_만들기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP.Q1463_정수를_1로_만들기" />
+      <module name="백준" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="DP.*" />
@@ -314,8 +329,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.병사_배치하기" />
-        <item itemvalue="Application.금광" />
+        <item itemvalue="Application.Q1463_정수를_1로_만들기" />
         <item itemvalue="Application.효율적인화폐구성" />
         <item itemvalue="Application._1로만들기" />
         <item itemvalue="Application.개미_전사" />
@@ -425,7 +439,8 @@
       <workItem from="1747818237356" duration="7203000" />
       <workItem from="1747901581474" duration="3999000" />
       <workItem from="1747991024054" duration="9202000" />
-      <workItem from="1748162598561" duration="5927000" />
+      <workItem from="1748162598561" duration="6671000" />
+      <workItem from="1748246358054" duration="3576000" />
     </task>
     <servers />
   </component>
