@@ -6,7 +6,7 @@
       <excludeFolder url="file://$MODULE_DIR$/goorm/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/goorm/build" />
     </content>
-    <orderEntry type="jdk" jdkName="corretto-17" jdkType="JavaSDK" />
+    <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Algorithm_Ogu.iml" filepath="$PROJECT_DIR$/Algorithm_Ogu.iml" />
       <module fileurl="file://$PROJECT_DIR$/Leetcode/Leetcode.iml" filepath="$PROJECT_DIR$/Leetcode/Leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dingcodingco/dingcodingco.iml" filepath="$PROJECT_DIR$/dingcodingco/dingcodingco.iml" />
       <module fileurl="file://$PROJECT_DIR$/goorm.iml" filepath="$PROJECT_DIR$/goorm.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/goorm.main.iml" filepath="$PROJECT_DIR$/.idea/modules/goorm.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/goorm.test.iml" filepath="$PROJECT_DIR$/.idea/modules/goorm.test.iml" />
