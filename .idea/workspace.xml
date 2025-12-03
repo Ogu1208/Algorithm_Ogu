@@ -5,19 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45a5baec-f8b6-4123-86e6-a5f0a946d0d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Becoming a Coding Test Winner/Becoming a Coding Test Winner.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Becoming a Coding Test Winner/src/1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Becoming a Coding Test Winner/src/2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Becoming a Coding Test Winner/src/3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Becoming a Coding Test Winner/src/4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dingcodingco/src/week1/Q05_FindPrimeListUnderNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/dingcodingco/src/week1/Q05_FindPrimeListUnderNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dingcodingco/src/week1/Q06_FindCountToTurnOutToAllZeroOrAllOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/dingcodingco/src/week1/Q06_FindCountToTurnOutToAllZeroOrAllOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/goorm/.gradle/8.5/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/goorm/.gradle/8.5/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/goorm/.gradle/8.5/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/goorm/.gradle/8.5/checksums/md5-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/goorm/.gradle/8.5/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/goorm/.gradle/8.5/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dingcodingco/week1/Q05_FindPrimeListUnderNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dingcodingco/week1/Q05_FindPrimeListUnderNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/프로그래머스/java/프로그래머스.iml" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래머스/java/프로그래머스.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,6 +110,7 @@
     "Application.Q9461_파도반수열.executor": "Run",
     "Application.Solution.executor": "Run",
     "Application.Solution2.executor": "Run",
+    "Application.Solution3.executor": "Run",
     "Application._1로만들기.executor": "Run",
     "Application.개미_전사.executor": "Run",
     "Application.계수_정렬.executor": "Run",
@@ -445,7 +435,7 @@
       <workItem from="1761025002748" duration="27000" />
       <workItem from="1761092926843" duration="6108000" />
       <workItem from="1761180066100" duration="505000" />
-      <workItem from="1764727145585" duration="6564000" />
+      <workItem from="1764727145585" duration="9477000" />
     </task>
     <servers />
   </component>
