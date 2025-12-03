@@ -5,27 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45a5baec-f8b6-4123-86e6-a5f0a946d0d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/dingcodingco/dingcodingco.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dingcodingco/src/week1/Q002_IsNumberExists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dingcodingco/src/week1/Q01_FindMaxNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dingcodingco/src/week1/Q04_FindMaxPlusOrMultiply.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dingcodingco/src/week1/Q05_FindPrimeListUnderNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dingcodingco/src/week1/Q06_FindCountToTurnOutToAllZeroOrAllOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dingcodingco/src/week1/Q07_Summarize_String.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apiguardian_apiguardian_api_1_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_5_10_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_5_10_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_api_5_10_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_api_5_10_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_engine_5_10_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_engine_5_10_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_params_5_10_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_params_5_10_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_platform_junit_platform_commons_1_10_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_platform_junit_platform_commons_1_10_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_platform_junit_platform_engine_1_10_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_platform_junit_platform_engine_1_10_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_opentest4j_opentest4j_1_3_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_opentest4j_opentest4j_1_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Becoming a Coding Test Winner/Becoming a Coding Test Winner.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Becoming a Coding Test Winner/src/1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Becoming a Coding Test Winner/src/2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Becoming a Coding Test Winner/src/3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/goorm.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/goorm.main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/goorm.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/goorm.test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/goorm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/goorm.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dingcodingco/src/week1/Q05_FindPrimeListUnderNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/dingcodingco/src/week1/Q05_FindPrimeListUnderNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dingcodingco/src/week1/Q06_FindCountToTurnOutToAllZeroOrAllOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/dingcodingco/src/week1/Q06_FindCountToTurnOutToAllZeroOrAllOne.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/goorm/.gradle/8.5/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/goorm/.gradle/8.5/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/goorm/.gradle/8.5/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/goorm/.gradle/8.5/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/goorm/.gradle/8.5/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/goorm/.gradle/8.5/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/dingcodingco/week1/Q05_FindPrimeListUnderNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dingcodingco/week1/Q05_FindPrimeListUnderNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/프로그래머스/java/프로그래머스.iml" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래머스/java/프로그래머스.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,6 +119,8 @@
     "Application.Q7576_토마토.executor": "Run",
     "Application.Q9252_LCS2.executor": "Run",
     "Application.Q9461_파도반수열.executor": "Run",
+    "Application.Solution.executor": "Run",
+    "Application.Solution2.executor": "Run",
     "Application._1로만들기.executor": "Run",
     "Application.개미_전사.executor": "Run",
     "Application.계수_정렬.executor": "Run",
@@ -150,6 +144,7 @@
     "Kotlin.Q125_Palindrome_kotlinKt.executor": "Run",
     "Kotlin.Q334_Revserse_String_kotlin.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -162,11 +157,11 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/Users/ogu/Desktop/Github-Desktop/Algorithm_Ogu/dingcodingco/src/Main.java",
+    "onboarding.tips.debug.path": "/Users/ogu/Desktop/Github-Desktop/Algorithm_Ogu/Becoming a Coding Test Winner/src/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.keymap",
+    "settings.editor.selected.configurable": "editor.preferences.completion",
     "vue.rearranger.settings.migration": "true",
     "애플리케이션.Main.executor": "Run",
     "애플리케이션.Q11399_ATM.executor": "Run",
@@ -211,49 +206,13 @@
       <recent name="D:\Github-Desktop\Algorithm_Ogu\백준\java" />
       <recent name="D:\Github-Desktop\Algorithm_Ogu\백준\java\src" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Q07_Summarize_String">
-    <configuration name="Q002_IsNumberExists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week1.Q002_IsNumberExists" />
-      <module name="dingcodingco" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q04_FindMaxPlusOrMultiply" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week1.Q04_FindMaxPlusOrMultiply" />
-      <module name="dingcodingco" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Solution3">
     <configuration name="Q05_FindPrimeListUnderNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week1.Q05_FindPrimeListUnderNumber" />
-      <module name="dingcodingco" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="week1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q06_FindCountToTurnOutToAllZeroOrAllOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week1.Q06_FindCountToTurnOutToAllZeroOrAllOne" />
       <module name="dingcodingco" />
       <extension name="coverage">
         <pattern>
@@ -278,15 +237,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="피보나치수열" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ogu1208.DP.피보나치수열" />
-      <module name="goorm.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ogu1208.DP.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="Becoming a Coding Test Winner" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution2" />
+      <module name="Becoming a Coding Test Winner" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution3" />
+      <module name="Becoming a Coding Test Winner" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -297,19 +264,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="DP.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="게임_마스터" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ogu1208.이분탐색.게임_마스터" />
-      <module name="goorm.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.ogu1208.이분탐색.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -371,11 +325,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q07_Summarize_String" />
-        <item itemvalue="Application.Q06_FindCountToTurnOutToAllZeroOrAllOne" />
+        <item itemvalue="Application.Solution3" />
+        <item itemvalue="Application.Solution2" />
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Q05_FindPrimeListUnderNumber" />
-        <item itemvalue="Application.Q04_FindMaxPlusOrMultiply" />
-        <item itemvalue="Application.Q002_IsNumberExists" />
+        <item itemvalue="Application.Q07_Summarize_String" />
       </list>
     </recent_temporary>
   </component>
@@ -487,7 +441,11 @@
       <workItem from="1748310077647" duration="629000" />
       <workItem from="1748406735158" duration="7367000" />
       <workItem from="1748505427226" duration="4269000" />
-      <workItem from="1761007237032" duration="7373000" />
+      <workItem from="1761007237032" duration="9432000" />
+      <workItem from="1761025002748" duration="27000" />
+      <workItem from="1761092926843" duration="6108000" />
+      <workItem from="1761180066100" duration="505000" />
+      <workItem from="1764727145585" duration="6564000" />
     </task>
     <servers />
   </component>
@@ -511,6 +469,11 @@
           <url>file://$PROJECT_DIR$/dingcodingco/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Becoming a Coding Test Winner/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -13,23 +13,25 @@ import java.util.List;
 public class Q05_FindPrimeListUnderNumber {
 
 	// 소수는 자기 자신과 1외 에는 아무것도 나눌 수 없다.
+	// 자연수 N이 소수이기 위한 필요충분 조건은 N이 N의 제곱근보다 크지 않은 어떤 소수로도 나눠지지 않는다
 	public static List<Integer> findPrimeListUnderNumber(int number) {
 
 		List<Integer> primeList = new ArrayList<>();
-		for (int i = 2; i <= number; i++) {
-			if (i == 2) {
-				primeList.add(i);
-				continue;
-			}
-
+		for (int n = 2; n <= number; n++) {
 			boolean flag = true;
-			for (int j = 2; j < Math.sqrt(i); j++) {
-				if (i % j == 0)  {
+			// for (int j = 2; j < Math.sqrt(i); j++) {
+			// 	if (i % j == 0)  {
+			// 		flag = false;
+			// 		break;
+			// 	}
+			// }
+			for(int i : primeList) {	// 2부터 n-1 까지 모둔 소수로 나누어 떨어지지 않는지 비교
+				if (i * i <= n && n % i == 0){
 					flag = false;
 					break;
 				}
 			}
-			if(flag) primeList.add(i);
+			if(flag) primeList.add(n);
 		}
 		return primeList;
 	}

@@ -19,6 +19,8 @@ public class Q06_FindCountToTurnOutToAllZeroOrAllOne {
 	// 0 에서 1을 마주쳤을 때 뒤집는다 -> 전체를 0으로 만들기 위한 작업
 	// 1 에서 0을 마주쳤을 때 뒤집는다 -> 전체를 1로 만들기 위한 작업
 
+	// 1. 0 그룹 / 1 그룹 개수 세는 방법 (그룹 중심)
+	// 2. 뒤집는 횟수를 직접 시뮬레이션하며 세기 (뒤집기 중심)
 	public static int findCountToTurnOutToAllZeroOrAllOne(String string) {
 		int count0 = 0;
 		int count1 = 0;
