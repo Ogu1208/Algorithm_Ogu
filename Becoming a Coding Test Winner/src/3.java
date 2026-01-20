@@ -18,5 +18,4 @@ class Solution3 {
 
 		return set.stream().sorted().mapToInt(Integer::intValue).toArray();
 	}
-
 }

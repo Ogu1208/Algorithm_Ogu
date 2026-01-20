@@ -26,7 +26,7 @@ class Solution6_2 {
 
 		// ❼ 실패율이 높은 스테이지부터 내림차순으로 정렬
 		// 부동소수점 오차에도 안전하게 비교하기 위해 Double.compare 사용
-		return fails.entrySet()
+		return fails.entrySet()		 // key + value 쌍 = Set<Entry<Integer, Double>>
 			.stream()
 			.sorted((o1, o2) -> {
 				int cmp = Double.compare(o2.getValue(), o1.getValue()); // 실패율 내림차순

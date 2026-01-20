@@ -27,12 +27,8 @@ class Solution2 {
 			set.add(num);
 		}
 
-		// int형 배열에 담아서 반환
-		int[] result = new int[set.size()];
-		for (int i = 0; i < result.length; i++) {
-			result[i] = set.pollFirst();
-		}
-
-		return result;
+		return set.stream()
+			.mapToInt(Integer::intValue)
+			.toArray();
 	}
 }
