@@ -5,21 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45a5baec-f8b6-4123-86e6-a5f0a946d0d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Becoming a Coding Test Winner/src/11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Becoming a Coding Test Winner/src/12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Becoming a Coding Test Winner/Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Becoming a Coding Test Winner/Solution11.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Becoming a Coding Test Winner/src/2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Becoming a Coding Test Winner/src/2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Becoming a Coding Test Winner/src/3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Becoming a Coding Test Winner/src/3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Becoming a Coding Test Winner/src/6-2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Becoming a Coding Test Winner/src/6-2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Becoming a Coding Test Winner/src/9.java" beforeDir="false" afterPath="$PROJECT_DIR$/Becoming a Coding Test Winner/src/9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Becoming a Coding Test Winner/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Becoming a Coding Test Winner/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/goorm/.gradle/8.5/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/goorm/.gradle/8.5/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/goorm/.gradle/8.5/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/goorm/.gradle/8.5/checksums/sha1-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Becoming a Coding Test Winner/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Becoming a Coding Test Winner/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Becoming a Coding Test Winner/Solution2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Becoming a Coding Test Winner/Solution2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Becoming a Coding Test Winner/Solution7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Becoming a Coding Test Winner/Solution7.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Becoming a Coding Test Winner/Solution9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Becoming a Coding Test Winner/Solution9.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -216,7 +204,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution9">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Becoming a Coding Test Winner" />
@@ -280,8 +268,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution9" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Solution9" />
         <item itemvalue="Application.Solution3" />
         <item itemvalue="Application.Solution2" />
         <item itemvalue="Application.Solution" />
@@ -407,7 +395,8 @@
       <workItem from="1765806838318" duration="8000" />
       <workItem from="1768607592546" duration="9492000" />
       <workItem from="1768629494117" duration="10541000" />
-      <workItem from="1768880371913" duration="8551000" />
+      <workItem from="1768880371913" duration="9286000" />
+      <workItem from="1769136745970" duration="6064000" />
     </task>
     <servers />
   </component>
@@ -431,6 +420,11 @@
           <url>file://$PROJECT_DIR$/dingcodingco/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Becoming a Coding Test Winner/src/Main.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
