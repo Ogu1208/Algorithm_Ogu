@@ -2,8 +2,10 @@ import java.util.ArrayDeque;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
+import java.util.Deque;
 import java.util.HashMap;
 import java.util.HashSet;
+import java.util.List;
 import java.util.Map;
 import java.util.Stack;
 import java.util.TreeMap;
@@ -16,23 +18,53 @@ public class Main {
 		// int[] result = solution(5, new int[] {2, 1, 2, 6, 2, 4, 3, 3});
 		// System.out.println(Arrays.toString(result));
 
-		System.out.println(solution("[](){}"));
-		System.out.println(solution("}]()[{"));
+		int[][] board = {
+			{0, 0, 0, 0, 0},
+			{0, 0, 1, 0, 3},
+			{0, 2, 5, 0, 1},
+			{4, 2, 4, 4, 2},
+			{3, 5, 1, 3, 1}
+		};
+
+		int[] moves = {1, 5, 3, 5, 1, 2, 1, 4};
+
+		System.out.println(solution(board, moves));
 	}
 
-	public int solution(String s)
-	{
-		Stack<Character> stack = new Stack<>();
-		for (int i = 0; i < s.length(); i++) {
-			Character c = s.charAt(i);
+	public static int solution(int[][] board, int[] moves) {
+		int answer = 0;
+		int N = board.length;
 
-			if (!stack.isEmpty() && stack.peek() == c) {
-				stack.pop();
-			} else {
-				stack.push(c);
+		ArrayDeque<Integer> basket = new ArrayDeque<>();
+		List<Deque<Integer>> stacks = new ArrayList<>();
+		for (int i = 0; i < N; i++) {
+			stacks.add(new ArrayDeque<>());
+		}
+
+		// claw crane 초기화
+		for (int[] ints : board) {
+			for (int j = 0; j < N; j++) {
+				int doll = ints[j];
+				if (doll != 0) {
+					stacks.get(j).addLast(doll);
+				}
 			}
 		}
 
-		return stack.isEmpty() ? 1 : 0;
+		for (int move : moves) {
+			if (stacks.get(move - 1).isEmpty()) { // 해당 열의 Stack이 비었을 경우
+				continue;
+			} else {
+				Integer doll = stacks.get(move - 1).pollFirst();
+				if (!basket.isEmpty() && basket.peekFirst() == doll) {
+					basket.pollFirst();
+					answer += 2;
+				} else {
+					basket.addFirst(doll);
+				}
+			}
+		}
+
+		return answer;
 	}
 }

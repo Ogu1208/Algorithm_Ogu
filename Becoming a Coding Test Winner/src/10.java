@@ -19,7 +19,7 @@ class Solution {
 
 			for (int j = i; j < n + i; j++) {
 				char c = s.charAt(j);
-				if (map.containsKey(c)) {
+				if (!map.containsKey(c)) {
 					deque.push(c);
 				} else {
 					if (deque.isEmpty() || deque.pop() != map.get(c)) {

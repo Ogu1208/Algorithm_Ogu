@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45a5baec-f8b6-4123-86e6-a5f0a946d0d5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Becoming a Coding Test Winner/src/13.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Becoming a Coding Test Winner/src/10.java" beforeDir="false" afterPath="$PROJECT_DIR$/Becoming a Coding Test Winner/src/10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Becoming a Coding Test Winner/src/12.java" beforeDir="false" afterPath="$PROJECT_DIR$/Becoming a Coding Test Winner/src/12.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Becoming a Coding Test Winner/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Becoming a Coding Test Winner/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Becoming a Coding Test Winner/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Becoming a Coding Test Winner/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Becoming a Coding Test Winner/Solution9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Becoming a Coding Test Winner/Solution9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Becoming a Coding Test Winner/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Becoming a Coding Test Winner/Solution.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -212,8 +215,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Becoming a Coding Test Winner" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="Becoming a Coding Test Winner" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution2" />
       <module name="Becoming a Coding Test Winner" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -233,9 +250,43 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution3" />
+      <module name="Becoming a Coding Test Winner" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution9" />
       <module name="Becoming a Coding Test Winner" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution9" />
+      <module name="Becoming a Coding Test Winner" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="Becoming a Coding Test Winner" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="이진수_정렬" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ogu1208.정렬.이진수_정렬" />
+      <module name="goorm.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ogu1208.정렬.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -396,7 +447,10 @@
       <workItem from="1768607592546" duration="9492000" />
       <workItem from="1768629494117" duration="10541000" />
       <workItem from="1768880371913" duration="9286000" />
-      <workItem from="1769136745970" duration="6064000" />
+      <workItem from="1769136745970" duration="6397000" />
+      <workItem from="1769236735039" duration="4215000" />
+      <workItem from="1769269982750" duration="255000" />
+      <workItem from="1769311312266" duration="2882000" />
     </task>
     <servers />
   </component>
@@ -420,11 +474,6 @@
           <url>file://$PROJECT_DIR$/dingcodingco/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Becoming a Coding Test Winner/src/Main.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
