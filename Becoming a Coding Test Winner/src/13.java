@@ -13,9 +13,9 @@ class Solution13 {
 		int N = board.length;
 
 		ArrayDeque<Integer> basket = new ArrayDeque<>();
-		List<Deque<Integer>> stacks = new ArrayList<>();
+		List<Deque<Integer>> lane = new ArrayList<>();
 		for (int i = 0; i < N; i++) {
-			stacks.add(new ArrayDeque<>());
+			lane.add(new ArrayDeque<>());
 		}
 
 		// claw crane 초기화
@@ -23,16 +23,16 @@ class Solution13 {
 			for (int j = 0; j < N; j++) {
 				int doll = ints[j];
 				if (doll != 0) {
-					stacks.get(j).addLast(doll);
+					lane.get(j).addLast(doll);
 				}
 			}
 		}
 
 		for (int move : moves) {
-			if (stacks.get(move - 1).isEmpty()) { // 해당 열의 Stack이 비었을 경우
+			if (lane.get(move - 1).isEmpty()) { // 해당 열의 Stack이 비었을 경우
 				continue;
 			} else {
-				Integer doll = stacks.get(move - 1).pollFirst();
+				Integer doll = lane.get(move - 1).pollFirst();
 				if (!basket.isEmpty() && basket.peekFirst() == doll) {
 					basket.pollFirst();
 					answer += 2;
