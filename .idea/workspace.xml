@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45a5baec-f8b6-4123-86e6-a5f0a946d0d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Becoming a Coding Test Winner/src/15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Becoming a Coding Test Winner/src/16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Becoming a Coding Test Winner/src/16_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Becoming a Coding Test Winner/src/13.java" beforeDir="false" afterPath="$PROJECT_DIR$/Becoming a Coding Test Winner/src/13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Becoming a Coding Test Winner/Solution15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Becoming a Coding Test Winner/Solution15.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,6 +113,8 @@
     "Application.Q9461_파도반수열.executor": "Run",
     "Application.Solution.executor": "Run",
     "Application.Solution15.executor": "Run",
+    "Application.Solution16.executor": "Run",
+    "Application.Solution16_2.executor": "Run",
     "Application.Solution2.executor": "Run",
     "Application.Solution3.executor": "Run",
     "Application.Solution9.executor": "Run",
@@ -204,7 +207,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution15">
+  <component name="RunManager" selected="Application.Solution16_2">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Becoming a Coding Test Winner" />
@@ -226,8 +229,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution2" />
+    <configuration name="Solution16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution16" />
+      <module name="Becoming a Coding Test Winner" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution16_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution16_2" />
       <module name="Becoming a Coding Test Winner" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -235,13 +245,6 @@
     </configuration>
     <configuration name="Solution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution2" />
-      <module name="Becoming a Coding Test Winner" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution3" />
       <module name="Becoming a Coding Test Winner" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -303,11 +306,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution16_2" />
+        <item itemvalue="Application.Solution16" />
         <item itemvalue="Application.Solution15" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Solution9" />
-        <item itemvalue="Application.Solution3" />
-        <item itemvalue="Application.Solution2" />
       </list>
     </recent_temporary>
   </component>
@@ -435,7 +438,7 @@
       <workItem from="1769236735039" duration="4215000" />
       <workItem from="1769269982750" duration="255000" />
       <workItem from="1769311312266" duration="12822000" />
-      <workItem from="1769405725714" duration="1243000" />
+      <workItem from="1769405725714" duration="9386000" />
     </task>
     <servers />
   </component>
