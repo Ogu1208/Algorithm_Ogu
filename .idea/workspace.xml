@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45a5baec-f8b6-4123-86e6-a5f0a946d0d5" name="Changes" comment="" />
+    <list default="true" id="45a5baec-f8b6-4123-86e6-a5f0a946d0d5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/백준/java/src/큐/Q2164_카드.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Becoming a Coding Test Winner/src/20.java" beforeDir="false" afterPath="$PROJECT_DIR$/Becoming a Coding Test Winner/src/20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Becoming a Coding Test Winner/src/21.java" beforeDir="false" afterPath="$PROJECT_DIR$/Becoming a Coding Test Winner/src/21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Becoming a Coding Test Winner/src/6-2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Becoming a Coding Test Winner/src/6-2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/백준/java/src/스택/Q10845_큐.java" beforeDir="false" afterPath="$PROJECT_DIR$/백준/java/src/큐/Q10845_큐.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/백준/java/src/스택/Q18258_큐2.java" beforeDir="false" afterPath="$PROJECT_DIR$/백준/java/src/큐/Q18258_큐2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/프로그래머스/lv1/12906. 같은 숫자는 싫어/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래머스/lv1/12906. 같은 숫자는 싫어/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -203,14 +212,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q10845_큐">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Becoming a Coding Test Winner" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Q2164_카드">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Becoming a Coding Test Winner" />
@@ -219,11 +221,24 @@
       </method>
     </configuration>
     <configuration name="Q10845_큐" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="스택.Q10845_큐" />
+      <option name="MAIN_CLASS_NAME" value="큐.Q10845_큐" />
       <module name="백준" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="스택.*" />
+          <option name="PATTERN" value="큐.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q2164_카드" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="큐.Q2164_카드" />
+      <module name="백준" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="큐.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -252,33 +267,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution9" />
-      <module name="Becoming a Coding Test Winner" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="위에서_아래로" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="정렬.위에서_아래로" />
-      <module name="national" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="정렬.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q2164_카드" />
         <item itemvalue="Application.Q10845_큐" />
         <item itemvalue="Application.Solution16_2" />
         <item itemvalue="Application.Solution16" />
         <item itemvalue="Application.Solution15" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -409,6 +404,8 @@
       <workItem from="1769405725714" duration="10594000" />
       <workItem from="1769483049782" duration="6424000" />
       <workItem from="1769573102885" duration="5806000" />
+      <workItem from="1769664578872" duration="8355000" />
+      <workItem from="1769786362590" duration="388000" />
     </task>
     <servers />
   </component>

@@ -6,7 +6,7 @@ import java.util.HashMap;
  * - 모든 key가 서로 동일
  * - 각 key의 value가 equals()로 같음
  */
-class Solution {
+class Solution20 {
 
 	public int solution(String[] want, int[] number, String[] discount) {
 		int answer = 0; // 가능한 날 수

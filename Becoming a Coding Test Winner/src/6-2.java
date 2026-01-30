@@ -1,3 +1,7 @@
+import static java.util.Collections.*;
+import static java.util.Map.Entry.*;
+
+import java.util.Comparator;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -35,5 +39,14 @@ class Solution6_2 {
 			})
 			.mapToInt(HashMap.Entry::getKey)
 			.toArray();
+
+		// return fails.entrySet()
+		// 	.stream()
+		// 	.sorted(
+		// 		Map.Entry.<Integer, Double>comparingByValue(Comparator.reverseOrder())
+		// 			.thenComparing(Map.Entry.comparingByKey())
+		// 	)
+		// 	.mapToInt(Map.Entry::getKey)
+		// 	.toArray();
 	}
 }

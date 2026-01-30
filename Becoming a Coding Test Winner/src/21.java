@@ -6,7 +6,6 @@ class Solution21 {
 
 	public String[] solution(String[] record) {
 		ArrayList<String> answer = new ArrayList<>();
-
 		HashMap<String, String> uidNameMap = new HashMap<>();
 
 		// 1. uid -> nickname 매핑
