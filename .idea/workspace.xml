@@ -5,14 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45a5baec-f8b6-4123-86e6-a5f0a946d0d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/백준/java/src/큐/Q2164_카드.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Becoming a Coding Test Winner/src/23-2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Becoming a Coding Test Winner/src/24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Becoming a Coding Test Winner/src/24_combination.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Becoming a Coding Test Winner/src/20.java" beforeDir="false" afterPath="$PROJECT_DIR$/Becoming a Coding Test Winner/src/20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Becoming a Coding Test Winner/src/21.java" beforeDir="false" afterPath="$PROJECT_DIR$/Becoming a Coding Test Winner/src/21.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Becoming a Coding Test Winner/src/6-2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Becoming a Coding Test Winner/src/6-2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/백준/java/src/스택/Q10845_큐.java" beforeDir="false" afterPath="$PROJECT_DIR$/백준/java/src/큐/Q10845_큐.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/백준/java/src/스택/Q18258_큐2.java" beforeDir="false" afterPath="$PROJECT_DIR$/백준/java/src/큐/Q18258_큐2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/프로그래머스/lv1/12906. 같은 숫자는 싫어/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/프로그래머스/lv1/12906. 같은 숫자는 싫어/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Becoming a Coding Test Winner/src/23.java" beforeDir="false" afterPath="$PROJECT_DIR$/Becoming a Coding Test Winner/src/23.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,6 +106,7 @@
     &quot;Application.Q1920_수찾기.executor&quot;: &quot;Run&quot;,
     &quot;Application.Q1926_그림.executor&quot;: &quot;Run&quot;,
     &quot;Application.Q1932_정수삼각형.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q2164_카드.executor&quot;: &quot;Run&quot;,
     &quot;Application.Q2579_계단오르기.executor&quot;: &quot;Run&quot;,
     &quot;Application.Q2583_영역구하기.executor&quot;: &quot;Run&quot;,
     &quot;Application.Q2667_단지번호붙이기.executor&quot;: &quot;Run&quot;,
@@ -405,7 +403,9 @@
       <workItem from="1769483049782" duration="6424000" />
       <workItem from="1769573102885" duration="5806000" />
       <workItem from="1769664578872" duration="8355000" />
-      <workItem from="1769786362590" duration="388000" />
+      <workItem from="1769786362590" duration="4010000" />
+      <workItem from="1769839637011" duration="14350000" />
+      <workItem from="1769953813988" duration="1428000" />
     </task>
     <servers />
   </component>
