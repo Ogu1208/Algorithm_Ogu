@@ -30,7 +30,7 @@ class Solution27 {
 			String name = seller[i];
 
 			while (name != null && profit > 0) {
-				int passUp = profit / 10;
+				int passUp = profit / 10; // 소수점 버림 (10 / 100) , profit × (1 / 10) = profit ÷ 10
 				int keep = profit - passUp;
 
 				income.put(name, income.get(name) + keep);
@@ -41,7 +41,7 @@ class Solution27 {
 		}
 
 		for (int i = 0; i < enroll.length; i++) {
-			answer[i] = income.getOrDefault(enroll[i], 0);
+			answer[i] = income.get(enroll[i]);
 		}
 
 		return answer;
