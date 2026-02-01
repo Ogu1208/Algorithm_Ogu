@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45a5baec-f8b6-4123-86e6-a5f0a946d0d5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Becoming a Coding Test Winner/src/25.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Becoming a Coding Test Winner/src/24.java" beforeDir="false" afterPath="$PROJECT_DIR$/Becoming a Coding Test Winner/src/24.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Becoming a Coding Test Winner/src/24_combination.java" beforeDir="false" afterPath="$PROJECT_DIR$/Becoming a Coding Test Winner/src/24_combination.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Becoming a Coding Test Winner/Solution24_Combination.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Becoming a Coding Test Winner/Solution24_Combination.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,6 +118,7 @@
     "Application.Solution16_2.executor": "Run",
     "Application.Solution2.executor": "Run",
     "Application.Solution24_Combination.executor": "Run",
+    "Application.Solution25.executor": "Run",
     "Application.Solution3.executor": "Run",
     "Application.Solution9.executor": "Run",
     "Application._1로만들기.executor": "Run",
@@ -209,7 +210,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution24_Combination">
+  <component name="RunManager" selected="Application.Solution25">
     <configuration name="Q10845_큐" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="큐.Q10845_큐" />
       <module name="백준" />
@@ -236,13 +237,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution16" />
-      <module name="Becoming a Coding Test Winner" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Solution16_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution16_2" />
       <module name="Becoming a Coding Test Winner" />
@@ -257,13 +251,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution25" />
+      <module name="Becoming a Coding Test Winner" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution25" />
         <item itemvalue="Application.Solution24_Combination" />
         <item itemvalue="Application.Q2164_카드" />
         <item itemvalue="Application.Q10845_큐" />
         <item itemvalue="Application.Solution16_2" />
-        <item itemvalue="Application.Solution16" />
       </list>
     </recent_temporary>
   </component>
@@ -398,7 +399,8 @@
       <workItem from="1769786362590" duration="4010000" />
       <workItem from="1769839637011" duration="14350000" />
       <workItem from="1769953813988" duration="3173000" />
-      <workItem from="1770040163614" duration="3905000" />
+      <workItem from="1770040163614" duration="5581000" />
+      <workItem from="1770119483073" duration="2379000" />
     </task>
     <servers />
   </component>
