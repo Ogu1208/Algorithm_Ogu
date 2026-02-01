@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.Arrays;
 
 class Solution24_Combination {
 
@@ -11,6 +12,9 @@ class Solution24_Combination {
 	}
 
 	private static void combinations(int idx, char[] order, String result) {
+
+		System.out.println("combinations(" + idx + ", " + Arrays.toString(order) + ", \"" + result + "\")");
+
 		if (result.length() > 0) {
 			resultList.add(result);
 		}
