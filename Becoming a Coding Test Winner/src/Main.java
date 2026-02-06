@@ -15,98 +15,56 @@ import java.util.TreeMap;
 public class Main {
 
 	public static void main(String[] args) {
-		// int[] result = solution(5, new int[] {2, 1, 2, 6, 2, 4, 3, 3});
-		// System.out.println(Arrays.toString(result));
+		int[][] operations1 = {{0, 0, 1}, {0, 1, 2}, {1, 1, 2}};
+		System.out.println(Arrays.toString(solution(3, operations1)));
+		int[][] operations2 = {{0, 0, 1}, {1, 1, 2}, {0, 1, 2}, {1, 0, 2}};
+		System.out.println(Arrays.toString(solution(3, operations2)));
 
-		// int[][] board = {
-		// 	{0, 0, 0, 0, 0},
-		// 	{0, 0, 1, 0, 3},
-		// 	{0, 2, 5, 0, 1},
-		// 	{4, 2, 4, 4, 2},
-		// 	{3, 5, 1, 3, 1}
-		// };
+		// String[] enroll = {"john", "mary", "edward", "sam", "emily", "jaimie", "tod", "young"};
+		// String[] referral = {"-", "-", "mary", "edward", "mary", "mary", "jaimie", "edward"};
+		// String[] seller = {"young", "john", "tod", "emily", "mary"};
+		// int[] amount = {12, 4, 2, 5, 10};
 		//
-		// int[] moves = {1, 5, 3, 5, 1, 2, 1, 4};
-		//
-		// System.out.println(solution(board, moves));
-
-		String[] enroll = {"john", "mary", "edward", "sam", "emily", "jaimie", "tod", "young"};
-		String[] referral = {"-", "-", "mary", "edward", "mary", "mary", "jaimie", "edward"};
-		String[] seller = {"young", "john", "tod", "emily", "mary"};
-		int[] amount = {12, 4, 2, 5, 10};
-
-		System.out.println(Arrays.toString(solution2(enroll, referral, seller, amount)));
+		// System.out.println(Arrays.toString(solution2(enroll, referral, seller, amount)));
 	}
 
-	public static int solution(int[][] board, int[] moves) {
-		int answer = 0;
-		int N = board.length;
+	private static int[] parent;
 
-		ArrayDeque<Integer> basket = new ArrayDeque<>();
-		List<Deque<Integer>> stacks = new ArrayList<>();
-		for (int i = 0; i < N; i++) {
-			stacks.add(new ArrayDeque<>());
+	private static Boolean[] solution(int k, int[][] operation) {
+		parent = new int[k];
+
+		for (int i = 0; i < k; i++) {
+			parent[i] = i;
 		}
 
-		// claw crane 초기화
-		for (int[] ints : board) {
-			for (int j = 0; j < N; j++) {
-				int doll = ints[j];
-				if (doll != 0) {
-					stacks.get(j).addLast(doll);
-				}
+		ArrayList<Boolean> answer = new ArrayList<>();
+
+		// O(NlogN)
+		for (int[] op : operation) {
+			if (op[0] == 0) { // union 연산
+				union(op[1], op[2]);
+			} else {    // 같은 집합 equals 연산
+				answer.add(find(op[1]) == find(op[2]));
 			}
 		}
 
-		for (int move : moves) {
-			if (stacks.get(move - 1).isEmpty()) { // 해당 열의 Stack이 비었을 경우
-				continue;
-			} else {
-				Integer doll = stacks.get(move - 1).pollFirst();
-				if (!basket.isEmpty() && basket.peekFirst() == doll) {
-					basket.pollFirst();
-					answer += 2;
-				} else {
-					basket.addFirst(doll);
-				}
-			}
-		}
-
-		return answer;
+		return answer.toArray(new Boolean[0]);
 	}
 
-	public static int[] solution2(String[] enroll, String[] referral, String[] seller, int[] amount) {
-		int[] answer = new int[enroll.length];
-		HashMap<String, String> referralMap = new HashMap<>();
-		HashMap<String, Integer> income = new HashMap<>();
-
-		for (int i = 0; i < enroll.length; i++) {
-			income.put(enroll[i], 0);
-
-			if (!referral[i].equals("-")) {
-				referralMap.put(enroll[i], referral[i]);
-			}
+	// O(logN)
+	private static int find(int x) {
+		if (parent[x] == x) {
+			return x;
 		}
 
-		for (int i = 0; i < seller.length; i++) {
-			int profit = amount[i] * 100; // 100원
-			String name = seller[i];
+		return find(parent[x]);
+	}
 
-			while (name != null && profit > 0) {
-				int passUp = profit / 10; // 소수점 버림
-				int keep = profit - passUp;
+	// O(logN)
+	private static void union(int x, int y) {
+		int rootx = find(x);
+		int rooty = find(y);
 
-				income.put(name, income.get(name) + keep);
-
-				profit = passUp;
-				name = referralMap.get(name);
-			}
-		}
-
-		for (int i = 0; i < answer.length; i++) {
-			answer[i] = income.get(enroll[i]);
-		}
-
-		return answer;
+		parent[y] = rootx;
 	}
 }
