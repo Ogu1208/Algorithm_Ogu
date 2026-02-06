@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85909631-84c8-479e-a933-3b5b4332a530" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Becoming a Coding Test Winner/src/34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Becoming a Coding Test Winner/src/35.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,21 +19,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Ogu1208"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Ogu1208&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Ogu1208/Algorithm_Ogu.git",
-    "accountId": "10d16ca5-8a34-445a-8192-3d0719873e81"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Ogu1208/Algorithm_Ogu.git&quot;,
+    &quot;accountId&quot;: &quot;10d16ca5-8a34-445a-8192-3d0719873e81&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="39ZmGWraT8YekA622NzwDr7U8TV" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -46,6 +46,7 @@
   "keyToString": {
     "Application.Solution32.executor": "Run",
     "Application.Solution34.executor": "Run",
+    "Application.Solution35.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -57,7 +58,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Solution35">
     <configuration name="Solution34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution34" />
       <module name="Becoming a Coding Test Winner" />
@@ -65,8 +66,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution35" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution35" />
+      <module name="Becoming a Coding Test Winner" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution35" />
         <item itemvalue="Application.Solution34" />
       </list>
     </recent_temporary>
@@ -86,7 +95,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1770911872120</updated>
-      <workItem from="1770911873240" duration="1857000" />
+      <workItem from="1770911873240" duration="2485000" />
+      <workItem from="1771066693697" duration="5798000" />
     </task>
     <servers />
   </component>
