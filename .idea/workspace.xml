@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="85909631-84c8-479e-a933-3b5b4332a530" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Becoming a Coding Test Winner/src/35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Becoming a Coding Test Winner/src/36.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +47,7 @@
     "Application.Solution32.executor": "Run",
     "Application.Solution34.executor": "Run",
     "Application.Solution35.executor": "Run",
+    "Application.Solution36.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -58,7 +59,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Solution35">
+  <component name="RunManager" selected="Application.Solution36">
     <configuration name="Solution34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Solution34" />
       <module name="Becoming a Coding Test Winner" />
@@ -73,8 +74,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution36" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution36" />
+      <module name="Becoming a Coding Test Winner" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution36" />
         <item itemvalue="Application.Solution35" />
         <item itemvalue="Application.Solution34" />
       </list>
@@ -97,6 +106,7 @@
       <updated>1770911872120</updated>
       <workItem from="1770911873240" duration="2485000" />
       <workItem from="1771066693697" duration="5798000" />
+      <workItem from="1771243895269" duration="2915000" />
     </task>
     <servers />
   </component>
