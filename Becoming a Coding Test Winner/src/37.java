@@ -1,6 +1,6 @@
 import java.util.ArrayDeque;
 
-class Solution {
+class Solution37 {
 
 	private static final int[] dirX = {0, 0, 1, -1};
 	private static final int[] dirY = {1, -1, 0, 0};
