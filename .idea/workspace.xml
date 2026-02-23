@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85909631-84c8-479e-a933-3b5b4332a530" name="Changes" comment="" />
+    <list default="true" id="85909631-84c8-479e-a933-3b5b4332a530" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Becoming a Coding Test Winner/src/40.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Becoming a Coding Test Winner/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Becoming a Coding Test Winner/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Becoming a Coding Test Winner/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Becoming a Coding Test Winner/Main.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,13 +17,6 @@
   </component>
   <component name="ComposerSettings">
     <execution />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -69,30 +67,9 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Becoming a Coding Test Winner" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution34" />
-      <module name="Becoming a Coding Test Winner" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution35" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution35" />
-      <module name="Becoming a Coding Test Winner" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution36" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solution36" />
       <module name="Becoming a Coding Test Winner" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -101,9 +78,6 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Solution36" />
-        <item itemvalue="Application.Solution35" />
-        <item itemvalue="Application.Solution34" />
       </list>
     </recent_temporary>
   </component>
@@ -118,17 +92,11 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="85909631-84c8-479e-a933-3b5b4332a530" name="Changes" comment="" />
-      <created>1770911872120</created>
+      <created>1775649049798</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1770911872120</updated>
-      <workItem from="1770911873240" duration="2485000" />
-      <workItem from="1771066693697" duration="5798000" />
-      <workItem from="1771243895269" duration="4810000" />
-      <workItem from="1771613372868" duration="3391000" />
-      <workItem from="1771873495397" duration="1862000" />
-      <workItem from="1773060572178" duration="5554000" />
-      <workItem from="1773327958725" duration="5397000" />
+      <updated>1775649049798</updated>
+      <workItem from="1775649051184" duration="20042000" />
     </task>
     <servers />
   </component>
